@@ -32,5 +32,3 @@ permalink: /
     <p><a href="{{ '/uriyadi/' | relative_url }}">Read more about Uriyadi &rsaquo;</a></p>
   </div>
 </div>
-
-{% include signup-form.html %}
