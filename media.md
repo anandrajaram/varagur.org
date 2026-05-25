@@ -3,6 +3,9 @@ layout: page
 title: "News"
 permalink: /media/
 ---
+
+<img src="{{ '/assets/images/media/gopuram-final.jpg' | relative_url }}" alt="Gopuram of Sri Venkatesa Perumal Kovil" />
+
 ### Varagur in the News
 
  

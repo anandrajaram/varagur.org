@@ -4,6 +4,8 @@ title: "Where is Varagur?"
 permalink: /about/where-is-varagur/
 ---
 
+<img src="{{ '/assets/images/about__where-is-varagur/varagur-where-header.jpg' | relative_url }}" alt="Varagur countryside" />
+
 Varagur is located about 25 kilometres from Thanjavur in Tamil Nadu, India.
 
 <p>

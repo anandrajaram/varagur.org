@@ -3,6 +3,9 @@ layout: page
 title: "About"
 permalink: /about/
 ---
+
+<img src="{{ '/assets/images/about/varagur-about-header.jpg' | relative_url }}" alt="Aerial view near Varagur" />
+
 This web site is the humble initiative of the following volunteers:
 
 - Anand Rajaram

@@ -4,6 +4,8 @@ title: "Blog"
 permalink: /blog/
 ---
 
+<img src="{{ '/assets/images/blog/thaamboolam.jpg' | relative_url }}" alt="Thaamboolam — a traditional offering" />
+
 <ul class="post-list">
 {% for post in site.posts %}
   <li>
