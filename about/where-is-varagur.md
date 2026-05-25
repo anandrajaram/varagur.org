@@ -27,4 +27,4 @@ Varagur is located about 25 kilometres from Thanjavur in Tamil Nadu, India.
   <a href="https://www.openstreetmap.org/?mlat=10.842516&amp;mlon=78.998362#map=13/10.842516/78.998362">View on OpenStreetMap</a>
 </p>
 
-See also: [Varagur–Thanjavur bus timings](/about/varagur-thanjavur-bus-timings/).
+See also: [Varagur–Thanjavur bus timings]({{ '/about/varagur-thanjavur-bus-timings/' | relative_url }}).

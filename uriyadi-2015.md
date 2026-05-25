@@ -35,6 +35,6 @@ Please join us and seek the blessings of Lord Venkatesa Perumal on the occasion 
 
 வரகூர். 
 
-[Check Varagur to Thanjavur Bus Timings here](/about/varagur-thanjavur-bus-timings)
+[Check Varagur to Thanjavur Bus Timings here]({{ '/about/varagur-thanjavur-bus-timings' | relative_url }})
 
 ## Invitation

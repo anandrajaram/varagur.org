@@ -10,12 +10,12 @@ permalink: /uriyadi/
 
 We have a collection of pictures, news coverage and the invitations of Uriyadi festivals from the past few years: 
 
-[Uriyadi 2017](/uriyadi-2017)
+[Uriyadi 2017]({{ '/uriyadi-2017' | relative_url }})
 
-[Uriyadi 2016](/uriyadi-2016)
+[Uriyadi 2016]({{ '/uriyadi-2016' | relative_url }})
 
-[Uriyadi 2015](/uriyadi-2015)
+[Uriyadi 2015]({{ '/uriyadi-2015' | relative_url }})
 
-[Uriyadi 2014](/uriyadi/uriyadi-2014)
+[Uriyadi 2014]({{ '/uriyadi/uriyadi-2014' | relative_url }})
 
-[Uriyadi 2013](/uriyadi/uriyadi-2013)
+[Uriyadi 2013]({{ '/uriyadi/uriyadi-2013' | relative_url }})
