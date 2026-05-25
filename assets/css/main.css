@@ -1,0 +1,157 @@
+/* varagur.org — minimal stylesheet */
+
+:root {
+  --color-text: #2a2a2a;
+  --color-muted: #6b6b6b;
+  --color-bg: #ffffff;
+  --color-accent: #2e7d6b;
+  --color-border: #e6e6e6;
+  --font-serif: Georgia, "Times New Roman", Times, serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --measure: 38rem;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 17px; }
+
+body {
+  margin: 0;
+  font-family: var(--font-serif);
+  color: var(--color-text);
+  background: var(--color-bg);
+  line-height: 1.6;
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+.wrap {
+  max-width: 56rem;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* Header */
+.site-header {
+  border-bottom: 1px solid var(--color-border);
+  padding: 1.75rem 0 1rem;
+  text-align: center;
+}
+.site-title {
+  font-family: var(--font-serif);
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: var(--color-text);
+  letter-spacing: -0.01em;
+}
+.site-tagline {
+  margin: 0.25rem 0 1rem;
+  color: var(--color-muted);
+  font-style: italic;
+  font-size: 0.95rem;
+}
+.site-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem 1.25rem;
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+}
+.site-nav a {
+  color: var(--color-text);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.site-nav a:hover { color: var(--color-accent); text-decoration: none; }
+
+/* Main */
+.site-main { padding: 2.5rem 0 3rem; }
+
+.page, .post, .gallery-page { max-width: var(--measure); margin: 0 auto; }
+.gallery-page { max-width: 56rem; }
+
+.page-title, .post-title {
+  font-size: 2rem;
+  margin: 0 0 1.5rem;
+  line-height: 1.2;
+}
+.post-date {
+  display: block;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+article p { margin: 0 0 1.2em; }
+article img { max-width: 100%; height: auto; display: block; margin: 1.5rem auto; }
+article h2 { font-size: 1.5rem; margin-top: 2.2rem; }
+article h3 { font-size: 1.2rem; margin-top: 1.8rem; }
+
+article iframe { max-width: 100%; }
+
+/* Gallery */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.75rem;
+  margin: 2rem 0;
+}
+.gallery-item { margin: 0; }
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  aspect-ratio: 4 / 3;
+  border-radius: 2px;
+  transition: transform 0.15s ease;
+}
+.gallery-item a:hover img { transform: scale(1.02); }
+.gallery-item figcaption {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  padding: 0.4rem 0;
+  text-align: center;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid var(--color-border);
+  padding: 2rem 0;
+  margin-top: 3rem;
+  text-align: center;
+  color: var(--color-muted);
+  font-size: 0.875rem;
+}
+.footer-tagline { margin: 0 0 0.5rem; font-style: italic; }
+.footer-copy { margin: 0; }
+
+/* Post list */
+.post-list { list-style: none; padding: 0; }
+.post-list li { margin-bottom: 1.5rem; }
+.post-list h2 { margin: 0 0 0.25rem; font-size: 1.25rem; }
+.post-list .post-date { display: inline; margin: 0; }
+
+/* Home page intro cards */
+.home-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+.home-card { border-top: 1px solid var(--color-border); padding-top: 1rem; }
+.home-card h2 { margin: 0 0 0.5rem; font-size: 1.2rem; }
+.home-card p { margin: 0 0 0.5rem; font-size: 0.95rem; }
+
+@media (max-width: 600px) {
+  .site-title { font-size: 1.6rem; }
+  .page-title, .post-title { font-size: 1.5rem; }
+  .site-nav ul { font-size: 0.8rem; gap: 0.4rem 0.9rem; }
+}

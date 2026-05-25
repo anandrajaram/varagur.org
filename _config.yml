@@ -1,0 +1,40 @@
+title: Varagur.org
+tagline: Singing the praise of Varagur Sri Venkatesa Perumal
+description: >-
+  Varagur is a thousand-year-old village in Tamil Nadu, India, on the bank of
+  the Kudamurutti, a tributary of the Cauvery. The village is home to the
+  Sri Venkatesa Perumal Kovil and the annual Uriyadi festival, and to the
+  saint Sri Narayana Theerthar.
+url: "https://varagur.org"
+author: Varagur.org
+
+permalink: /:categories/:year/:month/:day/:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - scripts/
+  - README.md
+  - vendor/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

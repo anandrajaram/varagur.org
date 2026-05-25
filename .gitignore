@@ -1,0 +1,12 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+vendor/
+.bundle/
+.DS_Store
+.gstack/
+.claude/
+__pycache__/
+*.pyc
+scripts/cache/
