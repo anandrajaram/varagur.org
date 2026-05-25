@@ -3,9 +3,12 @@ layout: page
 title: "About Uriyadi"
 permalink: /overview/
 ---
+
+<img src="{{ '/assets/images/overview/uriyadi.jpg' | relative_url }}" alt="The Uriyadi pot suspended during the festival" />
+
 # Uriyadi
 
-## Uriyadi Utsavam is the marquee event amongst all the Utsavams in Varagur. Every year Uriyadi starts on Gayathri Japam Day (Day after Avani Avittam), and continues for ten days until the day after Janmashtami.
+Uriyadi Utsavam is the marquee event amongst all the Utsavams in Varagur. Every year Uriyadi starts on Gayathri Japam Day (the day after Avani Avittam), and continues for ten days until the day after Janmashtami.
 
 
 We have a collection of pictures, news coverage and the invitations of Uriyadi festivals from the past few years: 

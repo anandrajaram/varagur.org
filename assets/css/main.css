@@ -150,6 +150,23 @@ article iframe { max-width: 100%; }
 .home-card h2 { margin: 0 0 0.5rem; font-size: 1.2rem; }
 .home-card p { margin: 0 0 0.5rem; font-size: 0.95rem; }
 
+/* Tables */
+table {
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  width: 100%;
+}
+table th, table td {
+  padding: 0.55rem 0.8rem;
+  border-bottom: 1px solid var(--color-border);
+  text-align: left;
+}
+table th {
+  font-weight: 600;
+  background: #fafafa;
+}
+table.bus-timings td { font-variant-numeric: tabular-nums; }
+
 @media (max-width: 600px) {
   .site-title { font-size: 1.6rem; }
   .page-title, .post-title { font-size: 1.5rem; }

@@ -3,6 +3,9 @@ layout: page
 title: "Sthala Puranam"
 permalink: /home/about/
 ---
+
+<img src="{{ '/assets/images/home__about/varagur.JPG' | relative_url }}" alt="The Kudamurutti river at Varagur, lined with palmyra palms" />
+
 This is the story of Varagur, a small village situated on the bank of the River Kudamurutti, tributary of river Cauvery. In this remote village, the Great Saint Narayana Theertha Swamigal who composed the famous songs Tharangini attained Deva Mukthi after he received the Viswaroopa Darshan of Lord Venkatesa Perumal.
 Varagur, originally known as Bhoopathi Rajapuram, is a village in Thanjavur district of Tamilnadu, in India. Known as “Heaven on Earth” (Bhoolaka Vaikuntam), it is over a thousand years old. Today, this fertile, beautiful village’s main street is a south bound street, beginning with a brook called Kathungalaaru (கதுங்கலாறு). Right after the brook is a Pillayar temple with its temple pond. The [Maha Kailasanatha Kovil]({{ '/home/sri-kailasanatha-swamy-kovil' | relative_url }}) follows after the pond and in the midst of a line of houses stands Sri Venkatesa Perumal Kovil followed by the border deities Ayyanar and Peramanar.
 
