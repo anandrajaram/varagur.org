@@ -6,6 +6,9 @@ description: >-
   Sri Venkatesa Perumal Kovil and the annual Uriyadi festival, and to the
   saint Sri Narayana Theerthar.
 url: "https://varagur.org"
+# baseurl is temporarily set to /varagur.org for the github.io preview deploy.
+# Reverted to "" right before the DNS cutover to varagur.org.
+baseurl: "/varagur.org"
 author: Varagur.org
 
 permalink: /:categories/:year/:month/:day/:title/
