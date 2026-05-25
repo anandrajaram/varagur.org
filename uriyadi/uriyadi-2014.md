@@ -17,7 +17,7 @@ images:
 
 Please join us and seek the blessings of Lord Venkatesa Perumal on the occasion of Uriyadi Festival. This year the festivities start on Aug 11, 2014 and go upto Aug 21, 2014. Uriyadi Utsavam is on Thursday, Aug 18, 2014.
 
-நிகழும் ஜய வருஷம் ஆடி மாதம் 26-ஆம் தேதி (11-08-2014) திங்கட்கிழமை முதல் ஆவணி மாதம் 5-ஆம் தேதி (21-08-14) வியாழக்கிழமை முடிய பத்து தினங்களுக்கு** ****ஶ்ரீவேங்கடேச பெருமாள் கோயிலில் உறியடி உத்ஸவம்** நடைபெற இருக்கிறது.** **
+நிகழும் ஜய வருஷம் ஆடி மாதம் 26-ஆம் தேதி (11-08-2014) திங்கட்கிழமை முதல் ஆவணி மாதம் 5-ஆம் தேதி (21-08-14) வியாழக்கிழமை முடிய பத்து தினங்களுக்கு ஶ்ரீவேங்கடேச பெருமாள் கோயிலில் உறியடி உத்ஸவம் நடைபெற இருக்கிறது. 
 
 **18-08-14  திங்கட்கிழமை அன்று உறியடித் திருநாள்**. அன்று காலையில் சுமார் 12:00 மணி அளவில் ஸ்வாமி வெண்ணைதாழி கோலத்தில் பல்லக்கில் எழுந்தருளி நாதஸ்வரம், வேத பாராயணம், பஜனை கோஷ்டிகளுடன் வீதியுலா வந்து (காளிந்தி) கடுங்கால் நதிக்கரையிலுள்ள மண்டபத்தில் எழுந்தருள்வார். 
 
@@ -34,5 +34,3 @@ Please join us and seek the blessings of Lord Venkatesa Perumal on the occasion 
 வரகூர். 
 
 [Check Varagur to Thanjavur Bus Timings here]({{ '/about/varagur-thanjavur-bus-timings' | relative_url }})
-
-## Invitation
