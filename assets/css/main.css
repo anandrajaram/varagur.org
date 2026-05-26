@@ -356,3 +356,19 @@ table.bus-timings td { font-variant-numeric: tabular-nums; }
 .faq-item[open] summary::after { content: "\2212"; }
 .faq-answer { padding: 0.6rem 0 0.2rem; }
 .faq-answer p { margin: 0 0 0.6rem; }
+
+/* Festival year tables on the Uriyadi calendar page */
+.festival-year { margin: 1rem 0 2rem; }
+.festival-year table { width: 100%; }
+.festival-year th {
+  width: 60%;
+  text-align: left;
+  font-weight: 600;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  background: transparent;
+}
+.festival-year td {
+  font-variant-numeric: tabular-nums;
+  color: var(--color-text);
+}
