@@ -2,6 +2,8 @@
 layout: page
 title: "Utsavams"
 permalink: /utsavams/
+description: "Festivals and utsavams at the Sri Maha Kailasanatha Swamy Kovil and Sri Venkatesa Perumal Kovil at Varagur, including the Jeernottharana ashtabandhana Maha kumbabhishekam."
+image: /assets/images/utsavams/utsavams-header.JPG
 ---
 
 <img src="{{ '/assets/images/utsavams/utsavams-header.JPG' | relative_url }}" alt="Utsavams banner with the deities" />

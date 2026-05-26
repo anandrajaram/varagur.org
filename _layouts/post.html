@@ -7,6 +7,8 @@ layout: default
     {% if page.date %}<time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>{% endif %}
   </header>
   <div class="post-content">
+    {% include quickfacts.html %}
     {{ content }}
+    {% include faq.html %}
   </div>
 </article>

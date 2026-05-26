@@ -3,6 +3,8 @@ layout: post
 title: "Introducing the new varagur.org"
 date: 2013-05-26
 permalink: /blog/2013/5/26/introducing-the-new-varagurorg/
+description: "A 2013 announcement of the relaunched varagur.org, with archived comments from devotees."
+image: /assets/images/blog__2013__5__26__introducing-the-new-varagurorg/thaamboolam.jpg
 ---
 
 <img src="{{ '/assets/images/blog__2013__5__26__introducing-the-new-varagurorg/thaamboolam.jpg' | relative_url }}" alt="Thaamboolam — a traditional offering with coconut, flowers and leaves" />

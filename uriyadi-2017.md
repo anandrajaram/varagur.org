@@ -2,9 +2,17 @@
 layout: gallery
 title: "Uriyadi 2017"
 permalink: /uriyadi-2017/
+description: "The 2017 Uriyadi festival at Sri Venkatesa Perumal Kovil, Varagur, was held from August 8 to August 17, 2017. Uriyadi Utsavam was on Tuesday, August 15, 2017."
+image: /assets/images/uriyadi-2017/IMG_0026.JPG
+schema_type: Event
+schema:
+  start_date: "2017-08-08"
+  end_date: "2017-08-17"
 images:
   - src: /assets/images/uriyadi-2017/IMG_0026.JPG
+    caption: "Uriyadi 2017 invitation (page 1)"
   - src: /assets/images/uriyadi-2017/IMG_0025.JPG
+    caption: "Uriyadi 2017 invitation (page 2)"
 ---
 # Uriyadi 2017 Invitation
 

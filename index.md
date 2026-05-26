@@ -2,6 +2,8 @@
 layout: page
 title: "Varagur.org"
 permalink: /
+description: "Varagur is a thousand-year-old village in Thanjavur district, Tamil Nadu, on the bank of the Kudamurutti. Home of Sri Venkatesa Perumal Kovil, the saint Sri Narayana Theerthar, and the Uriyadi festival."
+image: /assets/images/index/gopuram-final.jpg
 ---
 
 <img class="hero" src="{{ '/assets/images/index/gopuram-final.jpg' | relative_url }}" alt="Gopuram of Sri Venkatesa Perumal Kovil, Varagur" />

@@ -282,3 +282,77 @@ table.bus-timings td { font-variant-numeric: tabular-nums; }
   .page-title, .post-title { font-size: 1.5rem; }
   .site-nav ul { font-size: 0.8rem; gap: 0.4rem 0.9rem; }
 }
+
+/* Quick Facts infobox */
+.quickfacts {
+  max-width: 32rem;
+  margin: 0 auto 2rem;
+  padding: 1rem 1.25rem;
+  background: #fafafa;
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  font-family: var(--font-sans);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+.quickfacts-title {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-muted);
+  margin: 0 0 0.6rem;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.5rem;
+}
+.quickfacts dl { margin: 0; }
+.quickfacts-row {
+  padding: 0.35rem 0;
+  border-bottom: 1px solid #efefef;
+}
+.quickfacts-row:last-child { border-bottom: 0; }
+.quickfacts dt {
+  font-weight: 600;
+  color: var(--color-muted);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.15rem;
+}
+.quickfacts dd { margin: 0; color: var(--color-text); }
+
+/* FAQ */
+.faq {
+  clear: both;
+  margin: 3rem 0 1.5rem;
+  border-top: 1px solid var(--color-border);
+  padding-top: 1.5rem;
+}
+.faq-title { font-size: 1.4rem; margin: 0 0 1rem; }
+.faq-item {
+  border-bottom: 1px solid var(--color-border);
+  padding: 0.85rem 0;
+}
+.faq-item summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  list-style: none;
+  position: relative;
+  padding-right: 1.5rem;
+}
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-item summary::after {
+  content: "+";
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-weight: 400;
+  color: var(--color-muted);
+  font-size: 1.2rem;
+  line-height: 1;
+}
+.faq-item[open] summary::after { content: "\2212"; }
+.faq-answer { padding: 0.6rem 0 0.2rem; }
+.faq-answer p { margin: 0 0 0.6rem; }

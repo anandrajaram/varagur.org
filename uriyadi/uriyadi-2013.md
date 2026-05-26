@@ -2,17 +2,33 @@
 layout: gallery
 title: "Uriyadi 2013"
 permalink: /uriyadi/uriyadi-2013/
+description: "The 2013 Uriyadi festival at Sri Venkatesa Perumal Kovil, Varagur, was held from August 21 to August 31, 2013 — an eleven-day observance. Uriyadi Utsavam was on Thursday, August 29, 2013."
+image: /assets/images/uriyadi__uriyadi-2013/uriyadi.jpg
+schema_type: Event
+schema:
+  start_date: "2013-08-21"
+  end_date: "2013-08-31"
 images:
   - src: /assets/images/uriyadi__uriyadi-2013/uriyadi.jpg
+    caption: "The Uriyadi pot suspended during the festival"
   - src: /assets/images/uriyadi__uriyadi-2013/Uriyadi+2013.+invitation.jpg
+    caption: "Uriyadi 2013 invitation"
   - src: /assets/images/uriyadi__uriyadi-2013/Uriyadi+2013.+invitation1.jpg
+    caption: "Uriyadi 2013 invitation"
   - src: /assets/images/uriyadi__uriyadi-2013/Uriyadi+2013.+invitation2.jpg
+    caption: "Uriyadi 2013 invitation"
   - src: /assets/images/uriyadi__uriyadi-2013/Uriyadi+2013.+invitation3.jpg
+    caption: "Uriyadi 2013 invitation"
   - src: /assets/images/uriyadi__uriyadi-2013/Uriyadi+2013.+invitation4.jpg
+    caption: "Uriyadi 2013 invitation"
   - src: /assets/images/uriyadi__uriyadi-2013/Uriyadi+2013.+invitation5.jpg
+    caption: "Uriyadi 2013 invitation"
   - src: /assets/images/uriyadi__uriyadi-2013/Uriyadi+2013.+invitation6.jpg
+    caption: "Uriyadi 2013 invitation"
   - src: /assets/images/uriyadi__uriyadi-2013/Uriyadi+2013.+invitation7.jpg
+    caption: "Uriyadi 2013 invitation"
   - src: /assets/images/uriyadi__uriyadi-2013/Uriyadi+2013.+invitation8.jpg
+    caption: "Uriyadi 2013 invitation"
 ---
 # Uriyadi 2013 Invitation
 

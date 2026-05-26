@@ -2,16 +2,31 @@
 layout: gallery
 title: "Uriyadi 2014"
 permalink: /uriyadi/uriyadi-2014/
+description: "The 2014 Uriyadi festival at Sri Venkatesa Perumal Kovil, Varagur, was held from August 11 to August 21, 2014. Uriyadi Utsavam was on Monday, August 18, 2014."
+image: /assets/images/uriyadi__uriyadi-2014/2014-Uriyadi-1.jpg
+schema_type: Event
+schema:
+  start_date: "2014-08-11"
+  end_date: "2014-08-21"
 images:
   - src: /assets/images/uriyadi__uriyadi-2014/2014-Uriyadi-1.jpg
+    caption: "Uriyadi 2014 — photograph"
   - src: /assets/images/uriyadi__uriyadi-2014/2014-Uriyadi-2.jpg
+    caption: "Uriyadi 2014 — photograph"
   - src: /assets/images/uriyadi__uriyadi-2014/2014-Uriyadi-3.jpg
+    caption: "Uriyadi 2014 — photograph"
   - src: /assets/images/uriyadi__uriyadi-2014/2014-Uriyadi-4.jpg
+    caption: "Uriyadi 2014 — photograph"
   - src: /assets/images/uriyadi__uriyadi-2014/2014-Uriyadi-5.jpg
+    caption: "Uriyadi 2014 — photograph"
   - src: /assets/images/uriyadi__uriyadi-2014/2014-Uriyadi-6.jpg
+    caption: "Uriyadi 2014 — photograph"
   - src: /assets/images/uriyadi__uriyadi-2014/2014-Uriyadi-7.jpg
+    caption: "Uriyadi 2014 — photograph"
   - src: /assets/images/uriyadi__uriyadi-2014/2014-Uriyadi-8.jpg
+    caption: "Uriyadi 2014 — photograph"
   - src: /assets/images/uriyadi__uriyadi-2014/2014-Uriyadi-9.jpg
+    caption: "Uriyadi 2014 — photograph"
 ---
 # Uriyadi 2014 Invitation
 

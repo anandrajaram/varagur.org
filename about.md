@@ -2,6 +2,8 @@
 layout: page
 title: "About"
 permalink: /about/
+description: "About varagur.org — a volunteer-run archive about Varagur village, Sri Venkatesa Perumal Kovil, and the Uriyadi festival."
+image: /assets/images/about/varagur-about-header.jpg
 ---
 
 <img src="{{ '/assets/images/about/varagur-about-header.jpg' | relative_url }}" alt="Aerial view near Varagur" />

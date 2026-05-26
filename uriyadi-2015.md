@@ -2,18 +2,35 @@
 layout: gallery
 title: "Uriyadi 2015"
 permalink: /uriyadi-2015/
+description: "The 2015 Uriyadi festival at Sri Venkatesa Perumal Kovil, Varagur, was held from August 30 to September 8, 2015. Uriyadi Utsavam was on Sunday, September 6, 2015."
+image: /assets/images/uriyadi-2015/P001.jpg
+schema_type: Event
+schema:
+  start_date: "2015-08-30"
+  end_date: "2015-09-08"
 images:
   - src: /assets/images/uriyadi-2015/P001.jpg
+    caption: "Uriyadi 2015 — photograph"
   - src: /assets/images/uriyadi-2015/P002.jpg
+    caption: "Uriyadi 2015 — photograph"
   - src: /assets/images/uriyadi-2015/P003.jpg
+    caption: "Uriyadi 2015 — photograph"
   - src: /assets/images/uriyadi-2015/P004.jpg
+    caption: "Uriyadi 2015 — photograph"
   - src: /assets/images/uriyadi-2015/P005.jpg
+    caption: "Uriyadi 2015 — photograph"
   - src: /assets/images/uriyadi-2015/P006.jpg
+    caption: "Uriyadi 2015 — photograph"
   - src: /assets/images/uriyadi-2015/P007.jpg
+    caption: "Uriyadi 2015 — photograph"
   - src: /assets/images/uriyadi-2015/P008.jpg
+    caption: "Uriyadi 2015 — photograph"
   - src: /assets/images/uriyadi-2015/P009.jpg
+    caption: "Uriyadi 2015 — photograph"
   - src: /assets/images/uriyadi-2015/P010.jpg
+    caption: "Uriyadi 2015 — photograph"
   - src: /assets/images/uriyadi-2015/P11.jpg
+    caption: "Uriyadi 2015 — photograph"
 ---
 # Uriyadi 2015 Invitation
 

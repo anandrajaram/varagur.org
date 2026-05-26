@@ -2,6 +2,8 @@
 layout: page
 title: "Blog"
 permalink: /blog/
+description: "Blog posts about Varagur, its temples, and the Uriyadi festival."
+image: /assets/images/blog/thaamboolam.jpg
 ---
 
 <img src="{{ '/assets/images/blog/thaamboolam.jpg' | relative_url }}" alt="Thaamboolam — a traditional offering" />

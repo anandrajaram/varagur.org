@@ -2,6 +2,7 @@
 layout: page
 title: "Thank you"
 permalink: /about/thank-you/
+description: "Thank you for contacting varagur.org."
 ---
 
 **India:** Suri Meenakshi Sundaram, Chennai

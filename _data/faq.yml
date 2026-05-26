@@ -1,0 +1,72 @@
+# Source of truth for FAQ blocks (rendered via _includes/faq.html)
+# and FAQPage JSON-LD (emitted via _includes/schema.html).
+#
+# Each top-level key is a faq_key referenced from page front-matter.
+# Answers should be one or two sentences — short enough for an LLM
+# to lift verbatim into an AI Overview citation.
+
+temple:
+  - q: "Where is Sri Venkatesa Perumal Kovil?"
+    a: "At Varagur, a village about 25 kilometres from Thanjavur in Tamil Nadu, India. The coordinates are 10.84° N, 78.99° E."
+  - q: "How old is the temple?"
+    a: "The sanctum is more than 500 years old. The moolavar of Sri Lakshmi Narayana is considered an example of Chola-period architecture, and archaeological tradition attributes its installation to the Paranthaka Chola king, also known as Veera Narayanan."
+  - q: "Who is the main deity?"
+    a: "Sri Lakshmi Narayana, known here as Sri Venkatesa Perumal, with his consort Bhoomi Devi (Sridevi) on his left thigh in the sanctum."
+  - q: "What is the main festival at the temple?"
+    a: "Uriyadi — a ten-day Janmashtami festival that begins on Gayathri Japam Day (the day after Avani Avittam) and concludes the day after Krishna Astami."
+  - q: "What is the connection between this temple and Sri Narayana Theerthar?"
+    a: "Sri Narayana Theerthar received Viswaroopa Darshan of Sri Venkatesa Perumal at this temple and is said to have attained Deva Mukthi here. He composed the Krishna Leela Tharangini during his time at Varagur, and tradition holds that Lord Venkatesa danced to its tunes when sung at this temple."
+
+saint:
+  - q: "Who composed the Krishna Leela Tharangini?"
+    a: "Sri Narayana Theerthar — a 17th- to 18th-century saint-composer who composed the work in Sanskrit during his years at Varagur."
+  - q: "When did Sri Narayana Theerthar live?"
+    a: "He lived through the 17th and early 18th centuries and is generally held to have attained Mukti in 1745 CE."
+  - q: "Where was Sri Narayana Theerthar born?"
+    a: "In Villathur, in Guntur district of present-day Andhra Pradesh."
+  - q: "Why did Sri Narayana Theerthar come to Varagur?"
+    a: "While on pilgrimage with severe stomach pain, he was instructed in a dream by Lord Krishna to follow a white pig (Varaha) that he would see on waking. The pig led him about four kilometres to the Sri Venkatesa Perumal Kovil at Varagur, where his pain vanished and he heard the Akashvani of the Lord. The village had originally been called Bhoopathi Rajapuram; from then on it was known as Varahapuri, later Varagur."
+  - q: "Where did Sri Narayana Theerthar attain Samadhi?"
+    a: "Two traditions are held in parallel. The widely cited Jeeva Samadhi shrine is at Thirupoonthuruthi (Tirupoonthuruthy) near Thiruvaiyaru. The Varagur tradition is that he received the Viswaroopa Darshan of Sri Venkatesa Perumal and attained Deva Mukthi in this village. Both places are venerated."
+
+village:
+  - q: "Where is Varagur?"
+    a: "Varagur is in Thanjavur district of Tamil Nadu, India, about 25 kilometres from Thanjavur town, on the bank of the Kudamurutti river — a tributary of the Cauvery. Coordinates: 10.84° N, 78.99° E."
+  - q: "Why is Varagur called Varagur?"
+    a: "The village was originally called Bhoopathi Rajapuram. When Sri Narayana Theerthar followed a white pig (Varaha in Sanskrit) to the Sri Venkatesa Perumal Kovil here, the village came to be called Varahapuri, which later became Varagur."
+  - q: "What is Varagur known for?"
+    a: "It is known as the place where Sri Narayana Theerthar composed the Krishna Leela Tharangini and attained Deva Mukthi, as the home of the Sri Venkatesa Perumal Kovil and the Sri Maha Kailasanatha Swamy Kovil, and as the site of the annual ten-day Uriyadi festival. The village is also called Bhoolaka Vaikuntam — Heaven on Earth."
+  - q: "How do I reach Varagur?"
+    a: "The nearest major town is Thanjavur (about 25 km away); Kumbakonam and Tiruchirappalli are also within easy reach. The Thanjavur–Kumbakonam road passes near the village. See the [Visit Varagur](/visit/) page for current directions and timings."
+
+tharangini:
+  - q: "What is the Krishna Leela Tharangini?"
+    a: "A Sanskrit musical opera on the life of Lord Krishna, composed by Sri Narayana Theerthar in the 17th–18th century. It draws on the tenth skandha of the Bhagavata Purana and is divided into twelve tarangams (literally, 'waves')."
+  - q: "What is a tarangam?"
+    a: "Tarangam means 'wave' in Sanskrit. In the Krishna Leela Tharangini, each tarangam is a self-contained section telling one episode from the life of Krishna, with songs (gita), verses (sloka), and prose (choornika)."
+  - q: "How many tarangams are there?"
+    a: "Twelve. Together they contain roughly 150 songs, around 300 slokas, and over 30 choornikas."
+  - q: "Where was the Krishna Leela Tharangini composed?"
+    a: "At Varagur, in Thanjavur district, Tamil Nadu, during Sri Narayana Theerthar's years in the village. The local tradition holds that Lord Venkatesa danced to its tunes when sung at the Sri Venkatesa Perumal Kovil."
+  - q: "How is the Krishna Leela Tharangini performed today?"
+    a: "It is performed in Carnatic music concerts, in Kuchipudi as the 'tarangam' dance form (often on a brass plate), and within the Bhagavata Mela tradition of southern Tamil Nadu."
+
+uriyadi:
+  - q: "What is Uriyadi?"
+    a: "Uriyadi is the Tamil name for the Janmashtami custom of breaking a clay pot (uri) hung high overhead to celebrate the child Krishna's love of butter. At Varagur it is a ten-day festival at the Sri Venkatesa Perumal Kovil, anchored on the day after Avani Avittam (Yajur Upakarma)."
+  - q: "When is Uriyadi at Varagur?"
+    a: "The festival begins on Gayathri Japam Day — the day after Avani Avittam — and continues for ten days. The Uriyadi Utsavam itself falls on the tenth day from the full moon of the month, around Krishna Astami. Specific Gregorian dates change each year with the Tamil calendar."
+  - q: "How is Uriyadi at Varagur different from Dahi Handi?"
+    a: "Both come from the same Krishna legend, but the customs are distinct. Dahi Handi is the Marathi observance, especially associated with Maharashtra. Uriyadi at Varagur is a temple festival woven into ten days of utsavams, with Veda Parayanam, bhajans, Rukmini Kalyanam, and Annadhanam organised by the temple trust."
+  - q: "Who organises Uriyadi at Varagur?"
+    a: "The hereditary trustees of the Sri Venkatesa Perumal Kovil, together with the families of the village and visiting devotees. Accommodation and meals during the festival are provided by the temple trust out of its revenues."
+
+visit:
+  - q: "Where is Varagur?"
+    a: "Thanjavur district of Tamil Nadu, India, about 25 kilometres from Thanjavur town. Coordinates: 10.84° N, 78.99° E."
+  - q: "How do I reach Varagur from Thanjavur?"
+    a: "The Thanjavur–Kumbakonam road passes near the village. Buses run between Thanjavur and Varagur; the road journey is about 50 to 60 minutes."
+  - q: "What are the temple timings?"
+    a: "The temple opens for darshan in the morning and evening. Times shift during festivals — please confirm locally before travelling."
+  - q: "When should I visit?"
+    a: "The Uriyadi festival, around Krishna Astami (August–September), is the most active time. Other major occasions include Sri Rama Navami, Akshaya Thrithiyai, Vaikunta Ekadasi, and the Maha Kumbabhishekam observances."

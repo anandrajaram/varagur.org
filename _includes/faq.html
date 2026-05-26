@@ -1,0 +1,27 @@
+{%- comment -%}
+FAQ block. Sourced from _data/faq.yml keyed by page.faq_key.
+The same data feeds the FAQPage JSON-LD in _includes/schema.html.
+
+Usage in front matter:
+  faq_key: temple
+
+_data/faq.yml:
+  temple:
+    - q: "Where is Sri Venkatesa Perumal Kovil?"
+      a: "At Varagur, in Thanjavur district, Tamil Nadu, India."
+{%- endcomment -%}
+
+{%- if page.faq_key -%}
+{%- assign faq_entries = site.data.faq[page.faq_key] -%}
+{%- if faq_entries -%}
+<section class="faq" aria-label="Frequently asked questions">
+  <h2 class="faq-title">Frequently asked questions</h2>
+  {%- for entry in faq_entries -%}
+  <details class="faq-item">
+    <summary>{{ entry.q }}</summary>
+    <div class="faq-answer">{{ entry.a | markdownify }}</div>
+  </details>
+  {%- endfor -%}
+</section>
+{%- endif -%}
+{%- endif -%}

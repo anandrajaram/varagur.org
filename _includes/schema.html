@@ -1,0 +1,219 @@
+{%- comment -%}
+JSON-LD structured data for AEO. Emits:
+  - Sitewide WebSite + Organization (always)
+  - BreadcrumbList (when not the home page)
+  - Per-page type from page.schema_type ("HinduTemple" | "Person" | "CreativeWork" | "Event" | "Place")
+  - FAQPage when page.faq_key is set (resolved against _data/faq.yml[page.faq_key])
+
+Front-matter conventions (see plan for examples):
+  schema_type: HinduTemple
+  schema:
+    geo: { latitude: 10.842516, longitude: 78.998362 }
+    address: { locality: Varagur, region: Tamil Nadu, country: IN }
+    founding_date: "16th century"
+    religious_affiliation: "Hinduism, Vaishnavism"
+
+  schema_type: Person
+  schema:
+    birth_place: "Villathur, Guntur, Andhra Pradesh, India"
+    death_place: "Varagur, Tamil Nadu, India"
+    death_date: "1745"
+    known_for: "Krishna Leela Tharangini"
+
+  schema_type: Event
+  schema:
+    start_date: "2017-08-08"
+    end_date: "2017-08-17"
+
+  faq_key: temple
+{%- endcomment -%}
+
+{%- assign default_image = "/assets/images/index/gopuram-final.jpg" -%}
+{%- assign page_image = page.image | default: default_image -%}
+{%- assign page_image_absolute = page_image | absolute_url -%}
+{%- assign page_description = page.description | default: site.description | strip_newlines | strip -%}
+{%- assign page_url = page.url | absolute_url -%}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "url": {{ site.url | jsonify }},
+  "description": {{ site.description | strip_newlines | strip | jsonify }},
+  "inLanguage": "en"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": {{ site.title | jsonify }},
+  "url": {{ site.url | jsonify }},
+  "logo": {{ default_image | absolute_url | jsonify }},
+  "description": {{ site.description | strip_newlines | strip | jsonify }}
+}
+</script>
+
+{%- if page.url != "/" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": {{ "/" | absolute_url | jsonify }} },
+    { "@type": "ListItem", "position": 2, "name": {{ page.title | default: page.url | jsonify }}, "item": {{ page_url | jsonify }} }
+  ]
+}
+</script>
+{%- endif -%}
+
+{%- if page.schema_type == "HinduTemple" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HinduTemple",
+  "name": {{ page.title | jsonify }},
+  "url": {{ page_url | jsonify }},
+  "image": {{ page_image_absolute | jsonify }},
+  "description": {{ page_description | jsonify }},
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": {{ page.schema.address.locality | default: "Varagur" | jsonify }},
+    "addressRegion": {{ page.schema.address.region | default: "Tamil Nadu" | jsonify }},
+    "addressCountry": {{ page.schema.address.country | default: "IN" | jsonify }}
+  }{%- if page.schema.geo %},
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ page.schema.geo.latitude }},
+    "longitude": {{ page.schema.geo.longitude }}
+  }{%- endif %}{%- if page.schema.founding_date %},
+  "foundingDate": {{ page.schema.founding_date | jsonify }}{%- endif %},
+  "religiousAffiliation": {{ page.schema.religious_affiliation | default: "Hinduism" | jsonify }}
+}
+</script>
+{%- endif -%}
+
+{%- if page.schema_type == "Person" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ page.title | jsonify }},
+  "url": {{ page_url | jsonify }},
+  "image": {{ page_image_absolute | jsonify }},
+  "description": {{ page_description | jsonify }}{%- if page.schema.birth_place %},
+  "birthPlace": {{ page.schema.birth_place | jsonify }}{%- endif %}{%- if page.schema.birth_date %},
+  "birthDate": {{ page.schema.birth_date | jsonify }}{%- endif %}{%- if page.schema.death_place %},
+  "deathPlace": {{ page.schema.death_place | jsonify }}{%- endif %}{%- if page.schema.death_date %},
+  "deathDate": {{ page.schema.death_date | jsonify }}{%- endif %}{%- if page.schema.known_for %},
+  "knownFor": {{ page.schema.known_for | jsonify }}{%- endif %}{%- if page.schema.nationality %},
+  "nationality": {{ page.schema.nationality | jsonify }}{%- endif %}
+}
+</script>
+{%- endif -%}
+
+{%- if page.schema_type == "CreativeWork" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": {{ page.title | jsonify }},
+  "url": {{ page_url | jsonify }},
+  "image": {{ page_image_absolute | jsonify }},
+  "description": {{ page_description | jsonify }}{%- if page.schema.author %},
+  "author": {
+    "@type": "Person",
+    "name": {{ page.schema.author | jsonify }}
+  }{%- endif %}{%- if page.schema.date_created %},
+  "dateCreated": {{ page.schema.date_created | jsonify }}{%- endif %}{%- if page.schema.in_language %},
+  "inLanguage": {{ page.schema.in_language | jsonify }}{%- endif %}{%- if page.schema.genre %},
+  "genre": {{ page.schema.genre | jsonify }}{%- endif %}
+}
+</script>
+{%- endif -%}
+
+{%- if page.schema_type == "Event" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": {{ page.title | jsonify }},
+  "url": {{ page_url | jsonify }},
+  "image": {{ page_image_absolute | jsonify }},
+  "description": {{ page_description | jsonify }}{%- if page.schema.start_date %},
+  "startDate": {{ page.schema.start_date | jsonify }}{%- endif %}{%- if page.schema.end_date %},
+  "endDate": {{ page.schema.end_date | jsonify }}{%- endif %},
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+    "@type": "Place",
+    "name": "Sri Venkatesa Perumal Kovil",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Varagur",
+      "addressRegion": "Tamil Nadu",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 10.842516,
+      "longitude": 78.998362
+    }
+  },
+  "organizer": {
+    "@type": "Organization",
+    "name": "Sri Venkatesa Perumal Kovil, Varagur"
+  }
+}
+</script>
+{%- endif -%}
+
+{%- if page.schema_type == "Place" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Place",
+  "name": {{ page.title | jsonify }},
+  "url": {{ page_url | jsonify }},
+  "image": {{ page_image_absolute | jsonify }},
+  "description": {{ page_description | jsonify }},
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Varagur",
+    "addressRegion": "Tamil Nadu",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 10.842516,
+    "longitude": 78.998362
+  }
+}
+</script>
+{%- endif -%}
+
+{%- if page.faq_key -%}
+{%- assign faq_entries = site.data.faq[page.faq_key] -%}
+{%- if faq_entries -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {%- for entry in faq_entries -%}
+    {
+      "@type": "Question",
+      "name": {{ entry.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ entry.a | jsonify }}
+      }
+    }{%- unless forloop.last %},{% endunless -%}
+    {%- endfor -%}
+  ]
+}
+</script>
+{%- endif -%}
+{%- endif -%}

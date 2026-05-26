@@ -2,6 +2,8 @@
 layout: page
 title: "About Uriyadi"
 permalink: /uriyadi/
+description: "Uriyadi at Varagur is a ten-day festival held at Sri Venkatesa Perumal Kovil around Janmashtami. It begins on Gayathri Japam Day (the day after Avani Avittam) and concludes the day after Krishna Astami."
+image: /assets/images/uriyadi/uriyadi.jpg
 ---
 
 <img src="{{ '/assets/images/uriyadi/uriyadi.jpg' | relative_url }}" alt="The Uriyadi pot suspended during the festival" />

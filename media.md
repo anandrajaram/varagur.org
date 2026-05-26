@@ -2,6 +2,8 @@
 layout: page
 title: "News"
 permalink: /media/
+description: "News coverage of Varagur, the Sri Venkatesa Perumal Kovil, and the Uriyadi festival — including reporting from The Hindu in 2007, 2008, and 2010."
+image: /assets/images/media/gopuram-final.jpg
 ---
 
 <img src="{{ '/assets/images/media/gopuram-final.jpg' | relative_url }}" alt="Gopuram of Sri Venkatesa Perumal Kovil" />

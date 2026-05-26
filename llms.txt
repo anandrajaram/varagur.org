@@ -1,0 +1,31 @@
+# varagur.org
+
+> Primary-source archival site about Varagur — a village in Thanjavur district, Tamil Nadu, India, situated on the bank of the Kudamurutti river (a tributary of the Cauvery). Home of the Sri Venkatesa Perumal Kovil, the saint-composer Sri Narayana Theerthar (who composed the Krishna Leela Tharangini), and the annual ten-day Uriyadi festival celebrated around Janmashtami.
+
+## Core pages
+
+- [Sthala Puranam](https://varagur.org/home/about/): the story and history of Varagur village (originally Bhoopathi Rajapuram)
+- [Sri Venkatesa Perumal Kovil](https://varagur.org/home/sri-venkatesa-perumal-kovil/): the main temple, deity Sri Lakshmi Narayana, Chola-period architecture
+- [Sri Narayana Theerthar](https://varagur.org/home/sri-narayana-theerthar/): the 17th-century saint-composer of the Krishna Leela Tharangini, his life and the Varaha (white pig) legend
+- [Krishna Leela Tharangini](https://varagur.org/home/krishna-leela-tharangini/): the Sanskrit opera, its twelve tarangams, and its connection to Varagur
+- [Sri Maha Kailasanatha Swamy Kovil](https://varagur.org/home/sri-kailasanatha-swamy-kovil/): the village's second temple
+- [About Uriyadi](https://varagur.org/uriyadi/): the ten-day festival celebrated around Janmashtami
+- [Utsavams](https://varagur.org/utsavams/): festivals and observances at the temples
+- [Visit Varagur](https://varagur.org/visit/): how to reach Varagur, temple timings, accommodation
+- [FAQ](https://varagur.org/faq/): frequently asked questions about Varagur and its temples
+- [News coverage](https://varagur.org/media/): articles on Varagur and the Uriyadi festival
+
+## Uriyadi festival archive
+
+- [Uriyadi 2017](https://varagur.org/uriyadi-2017/)
+- [Uriyadi 2016](https://varagur.org/uriyadi-2016/)
+- [Uriyadi 2015](https://varagur.org/uriyadi-2015/)
+- [Uriyadi 2014](https://varagur.org/uriyadi/uriyadi-2014/)
+- [Uriyadi 2013](https://varagur.org/uriyadi/uriyadi-2013/)
+- [Uriyadi 2007](https://varagur.org/uriyadi/uriyadi-2007/)
+
+## About
+
+- [About this site](https://varagur.org/about/): volunteers and contact information
+- [Contact](https://varagur.org/about/contact/)
+- [Blog](https://varagur.org/blog/)

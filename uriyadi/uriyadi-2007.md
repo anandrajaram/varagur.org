@@ -2,6 +2,8 @@
 layout: page
 title: "Uriyadi 2007"
 permalink: /uriyadi/uriyadi-2007/
+description: "Photographs from the 2007 Uriyadi festival at Sri Venkatesa Perumal Kovil, Varagur."
+image: /assets/images/uriyadi__uriyadi-2007/uriyadi.jpg
 ---
 
 <img src="{{ '/assets/images/uriyadi__uriyadi-2007/uriyadi.jpg' | relative_url }}" alt="The Uriyadi pot suspended during the festival" />

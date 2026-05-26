@@ -1,0 +1,25 @@
+{%- comment -%}
+Quick Facts infobox. Driven by page.quick_facts (array of {label, value}).
+Renders a definition list — clean, accessible, easy for LLMs to extract.
+
+Usage in front matter:
+  quick_facts:
+    - label: Deity
+      value: "Sri Lakshmi Narayana (Sri Venkatesa Perumal)"
+    - label: Location
+      value: "Varagur, Thanjavur district, Tamil Nadu"
+{%- endcomment -%}
+
+{%- if page.quick_facts -%}
+<aside class="quickfacts" aria-label="Quick facts">
+  <h2 class="quickfacts-title">Quick facts</h2>
+  <dl>
+    {%- for fact in page.quick_facts -%}
+    <div class="quickfacts-row">
+      <dt>{{ fact.label }}</dt>
+      <dd>{{ fact.value }}</dd>
+    </div>
+    {%- endfor -%}
+  </dl>
+</aside>
+{%- endif -%}

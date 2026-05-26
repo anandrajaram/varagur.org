@@ -2,6 +2,35 @@
 layout: page
 title: "Sri Venkatesa Perumal Kovil"
 permalink: /home/sri-venkatesa-perumal-kovil/
+description: "Sri Venkatesa Perumal Kovil at Varagur is a 500+ year-old Vaishnavite temple in Thanjavur district. The moolavar is Sri Lakshmi Narayana, in the Chola style of architecture."
+image: /assets/images/home__sri-venkatesa-perumal-kovil/gopuram-2004.JPG
+schema_type: HinduTemple
+schema:
+  geo:
+    latitude: 10.842516
+    longitude: 78.998362
+  address:
+    locality: Varagur
+    region: Tamil Nadu
+    country: IN
+  founding_date: "16th century"
+  religious_affiliation: "Hinduism, Vaishnavism"
+faq_key: temple
+quick_facts:
+  - label: Deity
+    value: "Sri Lakshmi Narayana (Sri Venkatesa Perumal)"
+  - label: Consort
+    value: "Sri Bhoomi Devi (Sridevi)"
+  - label: Location
+    value: "Varagur, Thanjavur district, Tamil Nadu"
+  - label: Coordinates
+    value: "10.842516° N, 78.998362° E"
+  - label: Age
+    value: "500+ years"
+  - label: Style
+    value: "Chola period"
+  - label: Main festival
+    value: "Uriyadi (10 days, from the day after Avani Avittam)"
 ---
 
 <img src="{{ '/assets/images/home__sri-venkatesa-perumal-kovil/gopuram-2004.JPG' | relative_url }}" alt="Gopuram of Sri Venkatesa Perumal Kovil" />

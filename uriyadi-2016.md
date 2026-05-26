@@ -2,16 +2,31 @@
 layout: gallery
 title: "Uriyadi 2016"
 permalink: /uriyadi-2016/
+description: "The 2016 Uriyadi festival at Sri Venkatesa Perumal Kovil, Varagur, was held from August 19 to August 28, 2016. Uriyadi Utsavam was on Friday, August 26, 2016."
+image: /assets/images/uriyadi-2016/URIYADI-2016-0.jpg
+schema_type: Event
+schema:
+  start_date: "2016-08-19"
+  end_date: "2016-08-28"
 images:
   - src: /assets/images/uriyadi-2016/URIYADI-2016-0.jpg
+    caption: "Uriyadi 2016 — photograph"
   - src: /assets/images/uriyadi-2016/URIYADI-2016-1.jpg
+    caption: "Uriyadi 2016 — photograph"
   - src: /assets/images/uriyadi-2016/URIYADI-2016-2.jpg
+    caption: "Uriyadi 2016 — photograph"
   - src: /assets/images/uriyadi-2016/URIYADI-2016-3.jpg
+    caption: "Uriyadi 2016 — photograph"
   - src: /assets/images/uriyadi-2016/URIYADI-2016-4.jpg
+    caption: "Uriyadi 2016 — photograph"
   - src: /assets/images/uriyadi-2016/URIYADI-2016-5.jpg
+    caption: "Uriyadi 2016 — photograph"
   - src: /assets/images/uriyadi-2016/URIYADI-2016-6.jpg
+    caption: "Uriyadi 2016 — photograph"
   - src: /assets/images/uriyadi-2016/URIYADI-2016-7.jpg
+    caption: "Uriyadi 2016 — photograph"
   - src: /assets/images/uriyadi-2016/URIYADI-2016-8.jpg
+    caption: "Uriyadi 2016 — photograph"
 ---
 # Uriyadi 2016 Invitation
 
