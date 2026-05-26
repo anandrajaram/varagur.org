@@ -2,7 +2,7 @@
 layout: page
 title: "Uriyadi Festival Calendar"
 permalink: /uriyadi/calendar/
-description: "Gregorian dates for the Uriyadi festival at Sri Venkatesa Perumal Kovil, Varagur — 2025, 2026, 2027, and 2028. Avani Avittam, Gayathri Japam Day, Uriyadi Utsavam (Krishna Astami), Rukmini Kalyanam, and Bhakta Utsavam dates by year."
+description: "Provisional Gregorian dates for the Uriyadi festival at Sri Venkatesa Perumal Kovil, Varagur — 2025, 2026, 2027, and 2028. Pending confirmation by the temple trust. Computed from Smarta-tradition Krishna Astami."
 image: /assets/images/uriyadi/uriyadi.jpg
 faq_key: uriyadi
 quick_facts:
@@ -20,7 +20,10 @@ quick_facts:
 
 The Uriyadi festival at Varagur is anchored to the Tamil lunar calendar, so its dates shift by a few weeks each year. This page gives the Gregorian dates for the principal days, computed from the standard Tamil panchangam.
 
-**Subject to confirmation by the temple trust.** The dates below follow the Smarta-tradition computation of Krishna Astami used by drikpanchang.com. The temple trust may publish slightly different dates in some years; the official Varagur invitation each year is authoritative. If you spot a discrepancy, please [let us know](/about/contact/).
+<aside class="notice notice-warning" role="note">
+  <p><strong>Provisional dates &mdash; pending confirmation by the temple trust.</strong></p>
+  <p>The dates below are computed from the Smarta-tradition Krishna Astami using <a href="https://www.drikpanchang.com/">drikpanchang.com</a>. The temple trust at Varagur publishes the official invitation each year, and those dates are authoritative. We expect to update this page with confirmed dates shortly. If you spot a discrepancy or have the official Varagur invitation for any year listed below, please <a href="/about/contact/">let us know</a>.</p>
+</aside>
 
 ## How the dates are determined
 
@@ -37,6 +40,8 @@ At Varagur:
 - The day after is **Bhakta Utsavam**, which concludes the ten days of utsavam.
 
 ## 2025
+
+<p class="festival-year-note">Provisional &mdash; awaiting temple trust confirmation.</p>
 
 <section class="festival-year">
 <table>
@@ -85,6 +90,8 @@ At Varagur:
 
 ## 2026
 
+<p class="festival-year-note">Provisional &mdash; awaiting temple trust confirmation.</p>
+
 <section class="festival-year">
 <table>
   <tbody>
@@ -132,6 +139,8 @@ At Varagur:
 
 ## 2027
 
+<p class="festival-year-note">Provisional &mdash; awaiting temple trust confirmation.</p>
+
 <section class="festival-year">
 <table>
   <tbody>
@@ -178,6 +187,8 @@ At Varagur:
 </script>
 
 ## 2028
+
+<p class="festival-year-note">Provisional &mdash; awaiting temple trust confirmation.</p>
 
 <section class="festival-year">
 <table>

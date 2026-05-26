@@ -357,8 +357,37 @@ table.bus-timings td { font-variant-numeric: tabular-nums; }
 .faq-answer { padding: 0.6rem 0 0.2rem; }
 .faq-answer p { margin: 0 0 0.6rem; }
 
+/* Notice / callout boxes (used for "provisional dates" etc.) */
+.notice {
+  margin: 1.5rem 0 2rem;
+  padding: 0.85rem 1.1rem;
+  border-radius: 4px;
+  border: 1px solid var(--color-border);
+  background: #fafafa;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+.notice p { margin: 0 0 0.6rem; }
+.notice p:last-child { margin-bottom: 0; }
+.notice-warning {
+  background: #fff7e6;
+  border-color: #f3d99a;
+  border-left: 4px solid #c98a14;
+}
+
+/* Per-year provisional note above each calendar table */
+.festival-year-note {
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #b67100;
+  margin: 1.2rem 0 0.2rem;
+}
+
 /* Festival year tables on the Uriyadi calendar page */
-.festival-year { margin: 1rem 0 2rem; }
+.festival-year { margin: 0.3rem 0 2rem; }
 .festival-year table { width: 100%; }
 .festival-year th {
   width: 60%;
