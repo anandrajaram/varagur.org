@@ -82,28 +82,25 @@ a:hover { text-decoration: underline; }
 .site-nav-toggle[open] > summary { color: var(--color-accent); }
 .hamburger {
   display: inline-block;
-  width: 0.9rem;
-  height: 0.7rem;
   position: relative;
-}
-.hamburger,
-.hamburger::before,
-.hamburger::after {
-  background: currentColor;
+  width: 0.9rem;
   height: 1px;
+  background: currentColor;
+  flex: 0 0 auto;
 }
-.hamburger { top: 0.34rem; }
 .hamburger::before,
 .hamburger::after {
   content: "";
   position: absolute;
   left: 0;
   right: 0;
+  height: 1px;
+  background: currentColor;
 }
-.hamburger::before { top: -0.32rem; }
-.hamburger::after  { top:  0.32rem; }
-.site-nav-toggle[open] .hamburger::before { transform: translateY(0.32rem) rotate(45deg); }
-.site-nav-toggle[open] .hamburger::after  { transform: translateY(-0.32rem) rotate(-45deg); }
+.hamburger::before { top: -0.3rem; }
+.hamburger::after  { top:  0.3rem; }
+.site-nav-toggle[open] .hamburger::before { transform: translateY(0.3rem) rotate(45deg); }
+.site-nav-toggle[open] .hamburger::after  { transform: translateY(-0.3rem) rotate(-45deg); }
 .site-nav-toggle[open] .hamburger { background: transparent; }
 
 .hamburger,
