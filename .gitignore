@@ -10,3 +10,6 @@ vendor/
 __pycache__/
 *.pyc
 scripts/cache/
+
+# Local-only maintainer notes — never push to the public repo.
+TODO.md
