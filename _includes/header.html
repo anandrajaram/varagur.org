@@ -2,24 +2,43 @@
   <div class="wrap">
     <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
     <p class="site-tagline">{{ site.tagline }}</p>
-    <nav class="site-nav">
-      <ul>
-        <li><a href="{{ '/' | relative_url }}">Home</a></li>
-        <li><a href="{{ '/home/about/' | relative_url }}">Sthala Puranam</a></li>
-        <li><a href="{{ '/home/sri-venkatesa-perumal-kovil/' | relative_url }}">Sri Venkatesa Perumal Kovil</a></li>
-        <li><a href="{{ '/home/sri-narayana-theerthar/' | relative_url }}">Sri Narayana Theerthar</a></li>
-        <li><a href="{{ '/home/krishna-leela-tharangini/' | relative_url }}">Krishna Leela Tharangini</a></li>
-        <li><a href="{{ '/utsavams/' | relative_url }}">Utsavams</a></li>
-        <li><a href="{{ '/uriyadi/' | relative_url }}">About Uriyadi</a></li>
-        <li><a href="{{ '/uriyadi/calendar/' | relative_url }}">Festival Dates</a></li>
-        <li><a href="{{ '/visit/' | relative_url }}">Visit</a></li>
-        <li><a href="{{ '/faq/' | relative_url }}">FAQ</a></li>
-        <li><a href="{{ '/media/' | relative_url }}">News</a></li>
-        <li><a href="{{ '/media/videos/' | relative_url }}">Videos</a></li>
-        <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-        <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
-        <li><a href="{{ '/about/contact/' | relative_url }}">Contact</a></li>
-      </ul>
-    </nav>
+    <details class="site-nav-toggle">
+      <summary aria-label="Open menu">
+        <span class="hamburger" aria-hidden="true"></span>
+        <span class="hamburger-label">Menu</span>
+      </summary>
+      <nav class="site-nav" aria-label="Site navigation">
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        </ul>
+        <h2 class="site-nav-heading">Temples &amp; saints</h2>
+        <ul>
+          <li><a href="{{ '/home/about/' | relative_url }}">Sthala Puranam</a></li>
+          <li><a href="{{ '/home/sri-venkatesa-perumal-kovil/' | relative_url }}">Sri Venkatesa Perumal Kovil</a></li>
+          <li><a href="{{ '/home/sri-kailasanatha-swamy-kovil/' | relative_url }}">Sri Maha Kailasanatha Swamy Kovil</a></li>
+          <li><a href="{{ '/home/sri-narayana-theerthar/' | relative_url }}">Sri Narayana Theerthar</a></li>
+          <li><a href="{{ '/home/krishna-leela-tharangini/' | relative_url }}">Krishna Leela Tharangini</a></li>
+        </ul>
+        <h2 class="site-nav-heading">Festivals</h2>
+        <ul>
+          <li><a href="{{ '/utsavams/' | relative_url }}">Utsavams</a></li>
+          <li><a href="{{ '/uriyadi/' | relative_url }}">About Uriyadi</a></li>
+          <li><a href="{{ '/uriyadi/calendar/' | relative_url }}">Festival Dates</a></li>
+        </ul>
+        <h2 class="site-nav-heading">Visiting</h2>
+        <ul>
+          <li><a href="{{ '/visit/' | relative_url }}">Visit</a></li>
+          <li><a href="{{ '/faq/' | relative_url }}">FAQ</a></li>
+        </ul>
+        <h2 class="site-nav-heading">News &amp; about</h2>
+        <ul>
+          <li><a href="{{ '/media/' | relative_url }}">News</a></li>
+          <li><a href="{{ '/media/videos/' | relative_url }}">Videos</a></li>
+          <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
+          <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+          <li><a href="{{ '/about/contact/' | relative_url }}">Contact</a></li>
+        </ul>
+      </nav>
+    </details>
   </div>
 </header>
