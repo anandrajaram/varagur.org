@@ -51,9 +51,9 @@ The full Sanskrit text — pallavi, anupallavi, and charanams praising Krishna b
 
 ## Meaning
 
-The song is in the *stotra* mode: a hymn of praise, not a narrative. The composer addresses Krishna directly. The pallavi gathers four of his most familiar epithets — Vasudeva (son of Vasudeva), Prabho (lord), Jagannatha (master of the worlds), Krishna — and asks for protection. The charanams expand the list, naming Krishna for each of his major leelas: lifter of Govardhana, slayer of Kamsa, the cowherd flute-player, the husband of Rukmini.
+The song is *stotra* — a hymn of praise, not a narrative. The composer addresses Krishna directly. The pallavi gathers four of his most familiar epithets — Vasudeva (son of Vasudeva), Prabho (lord), Jagannatha (master of the worlds), Krishna — and asks for protection. The charanams expand the list. Krishna is named for each of his major leelas: lifter of Govardhana, slayer of Kamsa, the cowherd flute-player, the husband of Rukmini.
 
-The choice of Shankarabharanam carries weight. Shankarabharanam is the 29th melakarta raga, the "ornament of Shiva", with the full major scale (sa ri ga ma pa dha ni). It is used in Carnatic music for songs of cosmic praise and royal grandeur. The song here praises Krishna as the lord of the worlds rather than as the village child or the young cowherd.
+Shankarabharanam carries weight in the choice. It is the 29th melakarta raga, the "ornament of Shiva", with the full major scale (sa ri ga ma pa dha ni). Carnatic composers reach for it when they need cosmic praise and royal grandeur. Here it praises Krishna as the lord of the worlds rather than the village child.
 
 ## In performance
 

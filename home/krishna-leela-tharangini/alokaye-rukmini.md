@@ -54,9 +54,9 @@ The full Sanskrit text, including anupallavi and charanams describing Krishna's 
 
 ## Meaning
 
-Like *Krishnam Kalaya Sakhi*, this song is in the sakhi-to-Rukmini frame. The sakhi addresses her friend — *sakhi* in the vocative — and asks her to look at Krishna. The repetition of *ālokaya* is the song's structural anchor: each charanam adds a new aspect of Krishna's appearance for Rukmini to take in.
+The frame is the same as *Krishnam Kalaya Sakhi*: the sakhi addresses her friend. *Sakhi* — vocative — is the form of address. The verb *ālokaya* repeats. Each charanam adds another aspect of Krishna for Rukmini to take in.
 
-Raga Kambhoji carries the song. Kambhoji is an upajati raga derived from the Harikambhoji mela, often used for songs of cosmic praise and royal devotion. The choice fits the song's bhava — the sakhi is showing Rukmini the lord of the worlds in a young man's form.
+Kambhoji carries the song. An upajati raga derived from the Harikambhoji mela, it is often used for songs of cosmic praise and royal devotion. The sakhi is showing Rukmini the lord of the worlds in a young man's form, and Kambhoji is built for that.
 
 ## In performance
 
@@ -70,7 +70,7 @@ The Dr. M. Balamuralikrishna studio recording is the most widely cited reference
 
 ## The narrative
 
-In the final tarangams of the Tharangini, Rukmini — daughter of the king of Vidarbha — comes to know Krishna through the descriptions her sakhi gives her. The series of songs the sakhi sings to her, including this one and *Krishnam Kalaya Sakhi*, prepare her to send the secret letter that brings Krishna to abduct her on her wedding day. The arc closes in Tarangam XII with the Rukmini Kalyanam at Dwaraka.
+Rukmini is the daughter of the king of Vidarbha. She has never seen Krishna. What she knows of him she has learned from her sakhi — songs like this one, and like *Krishnam Kalaya Sakhi*. By the time she sends her secret letter asking him to come for her on her wedding day, she has fallen for the Krishna of those descriptions. The arc closes in Tarangam XII with the Rukmini Kalyanam at Dwaraka.
 
 ## Related
 

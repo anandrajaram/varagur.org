@@ -54,9 +54,9 @@ The full text of the tarangam — pallavi, anupallavi, and charanams — is in t
 
 ## Meaning
 
-The song addresses the child Krishna in the cowherd settlement of Gokula. The bhava is *vatsalya* — the loving tenderness a parent or devotee feels for a young child. Across the tarangam, Sri Narayana Theerthar piles on epithets for the infant Krishna: cowherd, mischief-maker, beloved of his mother Yasoda, the dark-skinned one. The refrain "*pāhi pāhi*" — protect me, protect me — turns the child's leelas into a prayer for the singer's own protection.
+The song addresses the child Krishna at Gokula. The bhava is *vatsalya* — the loving tenderness of a parent watching a young child. Sri Narayana Theerthar piles on epithets across the tarangam: cowherd, mischief-maker, Yasoda's beloved, the dark-skinned one. The refrain repeats: *pāhi pāhi* — protect me, protect me. The child's leelas become a prayer.
 
-The choice of raga Mohanam ("the enchanter") matches the bhava precisely. Mohanam is a pentatonic raga, uplifting and devotional, well suited to the auspicious image of the smiling child Krishna. It is also one of the most accessible ragas for beginning Carnatic students, which is part of why this tarangam often appears early in pedagogical repertoire.
+Raga Mohanam fits. The name itself means "the enchanter". Mohanam is pentatonic — five notes, uplifting, devotional — and matched to the auspicious image of the smiling child. It is also one of the first ragas a Carnatic student learns, which is part of why *Bala Gopala* turns up early in pedagogical repertoire.
 
 ## In performance
 

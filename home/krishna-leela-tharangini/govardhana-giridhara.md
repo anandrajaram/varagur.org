@@ -40,9 +40,9 @@ The pallavi opens with the title epithet — *Govardhana giridhara* — repeated
 
 ## Meaning
 
-The Govardhana episode is a theologically loaded one. The villagers of Vraj used to offer rain-prayers to Indra each year. Krishna, still a young cowherd, persuaded them to direct that worship instead to Govardhana hill itself — the immediate source of grass for the cattle and water for the village. Indra, furious at being displaced, sent a seven-day deluge to punish them. Krishna lifted Govardhana on his little finger and held it as an umbrella. The villagers and their cattle sheltered beneath the hill until the rains stopped. Indra came down to acknowledge Krishna's divinity.
+The episode is theologically loaded. Each year the villagers of Vraj had offered rain-prayers to Indra. Krishna — still a young cowherd — persuaded them to redirect that worship to Govardhana itself, the hill that fed their cattle and watered their village. Indra was furious. A seven-day deluge came down on the village. Krishna lifted Govardhana on his little finger and held it as an umbrella; the villagers and their cattle sheltered beneath until the rains stopped. Indra came down to acknowledge him.
 
-The bhava of this tarangam is *adbhuta* — wonder. The song does not narrate the episode dramatically; it praises Krishna in the moment of the leela, addressing him as the one who lifted the hill and humbled Indra.
+The bhava is *adbhuta* — wonder. The song does not narrate the leela dramatically. It praises Krishna in the moment, addressing him as the lifter of the hill and the one who humbled Indra.
 
 ## In performance
 

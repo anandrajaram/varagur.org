@@ -54,9 +54,9 @@ The full text — including the anupallavi and charanams that describe Krishna's
 
 ## Meaning
 
-The sakhi addresses her friend Rukmini. *Kalaya* — "perceive", "behold", "look at" — is the verb that anchors the song. She lists what she sees: Krishna playing the flute, Krishna with the peacock feather, Krishna who is at once a child and the infinite Lord. Each verse layers another image; the cumulative effect is that Rukmini, who has not yet seen Krishna with her own eyes, comes to know him through the sakhi's description and falls deeper in love.
+The sakhi addresses her friend. The verb anchoring the song is *kalaya* — perceive, behold, look at. She lists what she sees: Krishna playing the flute, Krishna with the peacock feather, Krishna who is at once a child and the infinite Lord. Each verse layers another image. Rukmini, who has not seen him with her own eyes, comes to know him through the sakhi's description, and falls deeper in love.
 
-Raga Mukhari is the natural carrier for this bhava. Mukhari is a deeply melancholic raga in the Kharaharapriya family, with a quality of longing that suits the song's emotional arc — Rukmini's love and the separation that precedes union.
+Mukhari carries the bhava. It is a melancholic raga in the Kharaharapriya family, with a quality of longing that suits a love anticipating union but still in separation.
 
 ## In performance
 

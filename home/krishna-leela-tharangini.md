@@ -28,7 +28,7 @@ quick_facts:
     value: "Varagur, Thanjavur district, Tamil Nadu"
 ---
 
-The Krishna Leela Tharangini is a Sanskrit musical opera on the life of Lord Krishna. Sri Narayana Theerthar composed it at Varagur in the early 18th century, drawing the narrative from the tenth skandha of the Bhagavata Purana. The composer divided the work into twelve sections he called *tarangams* — meaning "waves". Each one is a self-contained section of songs, Sanskrit verses, and prose that moves the story forward by one stage of Krishna's life.
+The Krishna Leela Tharangini is a Sanskrit musical opera on the life of Krishna. Sri Narayana Theerthar composed it at Varagur in the early 18th century. He drew the narrative from the tenth skandha of the Bhagavata Purana. The work is divided into twelve sections he called *tarangams* — waves. Each tarangam is a self-contained sequence of songs, Sanskrit verses, and prose, carrying the story forward by one stage of Krishna's life.
 
 ## The twelve tarangams
 
