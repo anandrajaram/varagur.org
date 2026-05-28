@@ -70,3 +70,47 @@ visit:
     a: "The temple opens for darshan in the morning and evening. Times shift during festivals — please confirm locally before travelling."
   - q: "When should I visit?"
     a: "The Uriyadi festival, around Krishna Astami (August–September), is the most active time. Other major occasions include Sri Rama Navami, Akshaya Thrithiyai, Vaikunta Ekadasi, and the Maha Kumbabhishekam observances."
+
+bala-gopala:
+  - q: "What is Bala Gopala Krishnam?"
+    a: "A tarangam song from Sri Narayana Theerthar's Krishna Leela Tharangini, addressing the infant Krishna at Gokula. It is set in raga Mohanam and Adi tala and sits in the second and third tarangams of the work."
+  - q: "Who composed Bala Gopala?"
+    a: "Sri Narayana Theerthar, a 17th- to 18th-century saint-composer who composed the Krishna Leela Tharangini at Varagur in Thanjavur district, Tamil Nadu."
+  - q: "What raga is Bala Gopala in?"
+    a: "Mohanam — a pentatonic raga commonly used for auspicious and devotional songs in Carnatic music. The Tharangini's most widely circulated recording, by Dr. M. Balamuralikrishna, sets it in Mohanam."
+  - q: "Is Bala Gopala a Kuchipudi tarangam?"
+    a: "Yes. Bala Gopala is one of the most performed Kuchipudi tarangams. The dancer interprets the song while balancing on the rim of a brass plate, often as the climax of an arangetram."
+
+krishnam-kalaya-sakhi:
+  - q: "What does Krishnam Kalaya Sakhi mean?"
+    a: "It is a sakhi — a confidante — calling her friend Rukmini to behold Krishna. The verb kalaya means perceive or behold; sakhi means friend. The song is in Sanskrit."
+  - q: "What raga is Krishnam Kalaya Sakhi in?"
+    a: "Mukhari — a melancholic raga in the Kharaharapriya family, suited to the song's bhava of longing and devotional yearning."
+  - q: "Who composed Krishnam Kalaya Sakhi?"
+    a: "Sri Narayana Theerthar. The song appears in the eleventh tarangam of his Krishna Leela Tharangini, in the run-up to the Rukmini Kalyanam."
+  - q: "Where does the song fit in the narrative?"
+    a: "Rukmini, daughter of the king of Vidarbha, has fallen in love with Krishna without seeing him. Her sakhi describes him to her in this song, building Rukmini's resolve to send the messenger that will bring Krishna to abduct her on her wedding day."
+
+govardhana-giridhara:
+  - q: "What is the Govardhana Giridhara tarangam about?"
+    a: "It praises Krishna in the moment he lifts the Govardhana hill on his little finger to shelter the cowherds of Vraj from Indra's seven-day storm. The song is in the sixth tarangam of the Krishna Leela Tharangini."
+  - q: "What raga is Govardhana Giridhara in?"
+    a: "Most commonly Hindolam, but the attribution varies by pathantara — Tanjavur, Andhra, and Melattur traditions differ. Some recordings set it in Khamas or Kapi."
+  - q: "What is the Govardhana episode?"
+    a: "Krishna stopped the villagers of Vraj from performing their annual rain-prayers to Indra and asked them to worship Govardhana hill directly. Indra's punitive rains came; Krishna lifted Govardhana on his little finger as an umbrella for seven days. Indra was humbled and acknowledged Krishna's divinity."
+
+alokaye-rukmini:
+  - q: "What is Alokaye Sri Balakrishnam?"
+    a: "A tarangam from the Krishna Leela Tharangini in which the sakhi calls Rukmini to behold the young Krishna. Sometimes catalogued as Alokaye Rukmini. The raga is Kambhoji and the tala is Adi."
+  - q: "What raga is Alokaye Sri Balakrishnam in?"
+    a: "Kambhoji — a warm, majestic upajati raga derived from the Harikambhoji mela. The choice fits the song's bhava: the sakhi is showing Rukmini not just a beautiful young man but the lord of the worlds in a young man's form."
+  - q: "Is this song the same as Krishnam Kalaya Sakhi?"
+    a: "No. They are companion songs in the same narrative arc — both are sakhi-to-Rukmini descriptions of Krishna in the later tarangams — but they are distinct compositions in different ragas: Kambhoji here, Mukhari there."
+
+sri-vasudeva-prabho:
+  - q: "What is Sri Vasudeva Prabho?"
+    a: "A tarangam from the Krishna Leela Tharangini in praise of Krishna addressed as the son of Vasudeva. It is in raga Shankarabharanam and Adi tala, and is a hymn of praise rather than a narrative song."
+  - q: "Why is Sri Vasudeva Prabho often a concert opener?"
+    a: "The song is in Shankarabharanam — the regal 29th melakarta raga with the major scale — and it is a stotra, a hymn of direct praise to Krishna. Both qualities make it a natural piece for the opening or closing of a Carnatic kacheri."
+  - q: "Who composed Sri Vasudeva Prabho?"
+    a: "Sri Narayana Theerthar, the 17th- to 18th-century saint-composer who composed the Krishna Leela Tharangini at Varagur. The song is in his standard kacheri repertoire today."
