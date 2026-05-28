@@ -1,0 +1,14 @@
+{%- comment -%}
+Google Analytics 4. Only emits in production builds (JEKYLL_ENV=production,
+which GitHub Pages sets automatically) and only when site.google_analytics
+is configured in _config.yml. Local `jekyll serve` builds stay untracked.
+{%- endcomment -%}
+{%- if jekyll.environment == "production" and site.google_analytics -%}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.google_analytics }}');
+</script>
+{%- endif -%}

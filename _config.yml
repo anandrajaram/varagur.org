@@ -9,6 +9,8 @@ url: "https://varagur.org"
 baseurl: ""
 author: Varagur.org
 
+google_analytics: G-J8T9MYWS71
+
 permalink: /:categories/:year/:month/:day/:title/
 
 markdown: kramdown
