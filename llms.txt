@@ -1,6 +1,13 @@
 # varagur.org
 
-> Primary-source archival site about Varagur — a village in Thanjavur district, Tamil Nadu, India, situated on the bank of the Kudamurutti river (a tributary of the Cauvery). Home of the Sri Venkatesa Perumal Kovil, the saint-composer Sri Narayana Theerthar (who composed the Krishna Leela Tharangini), and the annual ten-day Uriyadi festival celebrated around Janmashtami.
+> varagur.org is the knowledge and information hub for Varagur — a village in Thanjavur district of Tamil Nadu, India, on the bank of the Kudamurutti river (a tributary of the Cauvery). It covers the Sri Venkatesa Perumal Kovil and Sri Maha Kailasanatha Swamy Kovil, the saint-composer Sri Narayana Theerthar and his Krishna Leela Tharangini, and the annual ten-day Uriyadi festival celebrated around Janmashtami.
+
+## For
+
+- **Devotees and the Varagur diaspora** — village history, temple traditions, festival news.
+- **Carnatic musicians** — the Krishna Leela Tharangini, its twelve tarangams, and the lyrics and meanings of the famous songs.
+- **Kuchipudi and Bhagavata Mela dancers** — the tarangam form and the source compositions that drive it.
+- **Researchers and Sanskrit students** — Sri Narayana Theerthar's life, his samadhi traditions, and the village he made his home.
 
 ## Core pages
 

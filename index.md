@@ -2,15 +2,15 @@
 layout: page
 title: "Varagur.org"
 permalink: /
-description: "Varagur is a thousand-year-old village in Thanjavur district, Tamil Nadu, on the bank of the Kudamurutti. Home of Sri Venkatesa Perumal Kovil, the saint Sri Narayana Theerthar, and the Uriyadi festival."
+description: "varagur.org is the knowledge hub for Varagur in Thanjavur district, Tamil Nadu — the Sri Venkatesa Perumal Kovil, the saint-composer Sri Narayana Theerthar, his Krishna Leela Tharangini, and the Uriyadi festival."
 image: /assets/images/index/gopuram-final.jpg
 ---
 
 <img class="hero" src="{{ '/assets/images/index/gopuram-final.jpg' | relative_url }}" alt="Gopuram of Sri Venkatesa Perumal Kovil, Varagur" />
 
-<p class="lede">This site is dedicated to the village of Varagur, Sri Venkatesa Perumal Kovil, and Sri Kailasanatha Swamy Kovil.</p>
+<p class="lede">This is the knowledge hub for Varagur — the village, its two temples, the saint-composer Sri Narayana Theerthar, his Krishna Leela Tharangini, and the annual Uriyadi festival. Whether you are a devotee, a Carnatic musician, a Kuchipudi dancer, a researcher, or a pilgrim, the village's history and traditions are in one place here.</p>
 
-<p class="lede">Varagur is situated on the bank of the River Kudamurutti, a tributary of the Cauvery. In this remote village, the Great Saint Sri Narayana Theertha Swamigal — who composed the Krishna Leela Tharangini — attained Deva Mukthi after receiving the Viswaroopa Darshan of Lord Venkatesa Perumal.</p>
+<p class="lede">Varagur sits on the bank of the Kudamurutti, a tributary of the Cauvery, in Thanjavur district. In this remote village, Sri Narayana Theerthar — composer of the Krishna Leela Tharangini — received the Viswaroopa Darshan of Sri Venkatesa Perumal and attained Deva Mukthi.</p>
 
 <div class="home-cards">
   <div class="home-card">
