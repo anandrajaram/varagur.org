@@ -152,7 +152,7 @@ A tarangam (Sanskrit: *taraṅga*, "wave") is the structural unit of the Tharang
 - **Sloka** — Sanskrit verses, usually devotional praise or narrative summary.
 - **Choornika** — passages of ornamented rhymed prose that link the songs together.
 
-Across the twelve tarangams, the work contains 153 songs, 302 slokas, and 31 choornikas. The same word, *tarangam*, came to name a dance form in Kuchipudi where the performer interprets one of these songs while balancing on the rim of a brass plate.
+Across the twelve tarangams, the work contains 153 songs, 302 slokas, and 31 choornikas — the count given in the [Wikipedia article on the work](https://en.wikipedia.org/wiki/Sri_Krishna_Leela_Tarangini) and corroborated by other reference sources. The same word, *tarangam*, came to name a dance form in Kuchipudi where the performer interprets one of these songs while balancing on the rim of a brass plate.
 
 ## Listen
 

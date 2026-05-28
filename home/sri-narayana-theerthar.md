@@ -123,6 +123,7 @@ The two accounts do not have to be in conflict. Varagur is remembered as the pla
 ## Sources and further reading
 
 - Madras Heritage and Carnatic Music: [Narayana Teertha](https://sriramv.com/2008/11/13/narayana-teertha/) — biographical sketch with dates and musicology.
+- Carnatic Circle: [Narayana Theertha Tarangini](https://carnatic-circle.com/choral-singing-sampradaya-bhajanai/guru-dhyanam/narayana-theertha-tarangini/) — source for the 1675 birth date at Kaza, the original name Govinda Shastri, and the guru Sri Shivaramateertha cited above.
 - Wikipedia: [Narayana Tirtha](https://en.wikipedia.org/wiki/Narayana_Teertha) — short reference entry.
 - The temple trust at Sri Venkatesa Perumal Kovil, Varagur — primary-source accounts preserved within the village.
 
