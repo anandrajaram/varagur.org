@@ -478,3 +478,142 @@ table.bus-timings td { font-variant-numeric: tabular-nums; }
   font-variant-numeric: tabular-nums;
   color: var(--color-text);
 }
+
+/* Tarangam grid (twelve cards) and song grid (five cards) */
+.tarangam-grid,
+.song-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin: 1.5rem 0 2rem;
+  list-style: none;
+  padding: 0;
+}
+.song-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (max-width: 760px) {
+  .tarangam-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .song-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 480px) {
+  .tarangam-grid { grid-template-columns: 1fr; }
+}
+.tarangam-card,
+.song-card {
+  border: 1px solid var(--color-border);
+  border-radius: 3px;
+  padding: 0.85rem 1rem 0.9rem;
+  background: #fff;
+  font-family: var(--font-sans);
+  font-size: 0.92rem;
+  line-height: 1.45;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+.tarangam-card:hover,
+.song-card:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
+}
+.tarangam-card .label,
+.song-card .label {
+  display: block;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-muted);
+  margin-bottom: 0.25rem;
+}
+.tarangam-card .name,
+.song-card .name {
+  display: block;
+  font-family: var(--font-serif);
+  font-size: 1.08rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 0.35rem;
+  line-height: 1.25;
+}
+.tarangam-card a,
+.song-card a {
+  color: inherit;
+  display: block;
+}
+.tarangam-card a:hover,
+.song-card a:hover { text-decoration: none; }
+.tarangam-card .synopsis,
+.song-card .synopsis {
+  color: var(--color-text);
+  margin: 0;
+}
+.song-card .meta {
+  margin-top: 0.45rem;
+  font-size: 0.82rem;
+  color: var(--color-muted);
+}
+.song-card .meta span + span::before { content: " · "; }
+
+/* Stub state for tarangam cards whose dedicated page hasn't shipped */
+.tarangam-card.stub {
+  background: #fafafa;
+  color: var(--color-muted);
+}
+.tarangam-card.stub .name { color: var(--color-muted); }
+.tarangam-card.stub::after {
+  content: "page in progress";
+  display: block;
+  margin-top: 0.4rem;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-muted);
+}
+
+/* Responsive YouTube embed */
+.youtube-embed {
+  position: relative;
+  width: 100%;
+  max-width: 38rem;
+  margin: 1.25rem auto 1.75rem;
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
+.youtube-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Song-page side-by-side text panels */
+.song-text {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+@media (min-width: 760px) {
+  .song-text-pair { grid-template-columns: 1fr 1fr; }
+}
+.song-text-pair {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem 1.5rem;
+}
+.song-text-panel {
+  background: #fafafa;
+  border: 1px solid var(--color-border);
+  border-radius: 3px;
+  padding: 0.85rem 1.1rem;
+}
+.song-text-panel h3 {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-muted);
+  margin: 0 0 0.5rem;
+}
+.song-text-panel.sanskrit { font-family: var(--font-serif); font-size: 1.05rem; line-height: 1.65; }
+.song-text-panel.iast    { font-style: italic; }
+.song-text-panel p { margin: 0 0 0.6rem; }
+.song-text-panel p:last-child { margin-bottom: 0; }
