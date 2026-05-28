@@ -57,6 +57,55 @@ He is also said to have begun the practice of celebrating Krishna Astami at Vara
   <figcaption>Sri Narayana Theerthar</figcaption>
 </figure>
 
+### Famous compositions
+
+Several songs from the Tharangini are now staple repertoire in Carnatic concerts and Kuchipudi recitals. Each link below opens the page for that song — Sanskrit pallavi, English translation, raga and tala, and a reference recording.
+
+<ul class="song-grid">
+  <li class="song-card">
+    <a href="{{ '/home/krishna-leela-tharangini/bala-gopala/' | relative_url }}">
+      <span class="label">Song</span>
+      <span class="name">Bala Gopala</span>
+      <p class="synopsis">The infant Krishna at Gokula. A standard Kuchipudi tarangam.</p>
+      <p class="meta"><span>Mohanam</span><span>Adi</span></p>
+    </a>
+  </li>
+  <li class="song-card">
+    <a href="{{ '/home/krishna-leela-tharangini/krishnam-kalaya-sakhi/' | relative_url }}">
+      <span class="label">Song</span>
+      <span class="name">Krishnam Kalaya Sakhi</span>
+      <p class="synopsis">The sakhi describes Krishna to Rukmini.</p>
+      <p class="meta"><span>Mukhari</span><span>Adi</span></p>
+    </a>
+  </li>
+  <li class="song-card">
+    <a href="{{ '/home/krishna-leela-tharangini/govardhana-giridhara/' | relative_url }}">
+      <span class="label">Song</span>
+      <span class="name">Govardhana Giridhara</span>
+      <p class="synopsis">In praise of Krishna lifting the Govardhana hill.</p>
+      <p class="meta"><span>Hindolam</span><span>Adi</span></p>
+    </a>
+  </li>
+  <li class="song-card">
+    <a href="{{ '/home/krishna-leela-tharangini/alokaye-rukmini/' | relative_url }}">
+      <span class="label">Song</span>
+      <span class="name">Alokaye Sri Balakrishnam</span>
+      <p class="synopsis">A companion sakhi-song addressed to Rukmini.</p>
+      <p class="meta"><span>Kambhoji</span><span>Adi</span></p>
+    </a>
+  </li>
+  <li class="song-card">
+    <a href="{{ '/home/krishna-leela-tharangini/sri-vasudeva-prabho/' | relative_url }}">
+      <span class="label">Song</span>
+      <span class="name">Sri Vasudeva Prabho</span>
+      <p class="synopsis">A hymn to Krishna as the son of Vasudeva.</p>
+      <p class="meta"><span>Shankarabharanam</span><span>Adi</span></p>
+    </a>
+  </li>
+</ul>
+
+For the hub of the whole work — the twelve tarangams, performance traditions, pathantara variants, and where to read the Sanskrit — see [Krishna Leela Tharangini](/home/krishna-leela-tharangini/).
+
 ## Deva Mukthi at Varagur
 
 The Varagur tradition is that Sri Narayana Theerthar received the Viswaroopa Darshan of Sri Venkatesa Perumal at the temple and attained Deva Mukthi here, in 1745 CE. This account is preserved by the temple trust and by the families who have served the temple across generations.
