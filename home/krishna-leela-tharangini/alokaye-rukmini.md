@@ -56,7 +56,7 @@ The full Sanskrit text, including anupallavi and charanams describing Krishna's 
 
 Like *Krishnam Kalaya Sakhi*, this song is in the sakhi-to-Rukmini frame. The sakhi addresses her friend — *sakhi* in the vocative — and asks her to look at Krishna. The repetition of *ālokaya* is the song's structural anchor: each charanam adds a new aspect of Krishna's appearance for Rukmini to take in.
 
-Raga Kambhoji carries the song. Kambhoji is an upajati raga (derived from the Harikambhoji mela), warm and majestic, often used for songs of cosmic praise and royal devotion. The choice fits: the sakhi is showing Rukmini not just a beautiful young man but the lord of the universe in a young man's form.
+Raga Kambhoji carries the song. Kambhoji is an upajati raga derived from the Harikambhoji mela, often used for songs of cosmic praise and royal devotion. The choice fits the song's bhava — the sakhi is showing Rukmini the lord of the worlds in a young man's form.
 
 ## In performance
 

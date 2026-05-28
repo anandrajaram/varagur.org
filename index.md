@@ -8,7 +8,7 @@ image: /assets/images/index/gopuram-final.jpg
 
 <img class="hero" src="{{ '/assets/images/index/gopuram-final.jpg' | relative_url }}" alt="Gopuram of Sri Venkatesa Perumal Kovil, Varagur" />
 
-<p class="lede">This is the knowledge hub for Varagur — the village, its two temples, the saint-composer Sri Narayana Theerthar, his Krishna Leela Tharangini, and the annual Uriyadi festival. Whether you are a devotee, a Carnatic musician, a Kuchipudi dancer, a researcher, or a pilgrim, the village's history and traditions are in one place here.</p>
+<p class="lede">This is the knowledge hub for Varagur — the village, its two temples, the saint-composer Sri Narayana Theerthar, his Krishna Leela Tharangini, and the annual Uriyadi festival. It is written for devotees, the village diaspora, Carnatic musicians, Kuchipudi dancers, pilgrims, and researchers.</p>
 
 <p class="lede">Varagur sits on the bank of the Kudamurutti, a tributary of the Cauvery, in Thanjavur district. In this remote village, Sri Narayana Theerthar — composer of the Krishna Leela Tharangini — received the Viswaroopa Darshan of Sri Venkatesa Perumal and attained Deva Mukthi.</p>
 

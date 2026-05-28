@@ -2,7 +2,7 @@
 layout: page
 title: "Bala Gopala Krishnam"
 permalink: /home/krishna-leela-tharangini/bala-gopala/
-description: "Bala Gopala Krishnam is a tarangam from Sri Narayana Theerthar's Krishna Leela Tharangini, in raga Mohanam and Adi tala. It is one of the most performed pieces in Carnatic concerts and Kuchipudi tarangam recitals."
+description: "Bala Gopala Krishnam is a tarangam from Sri Narayana Theerthar's Krishna Leela Tharangini, in raga Mohanam and Adi tala. It is widely performed in Carnatic concerts and as a Kuchipudi tarangam on the brass plate."
 image: /assets/images/home__sri-narayana-theerthar/narayana-theerthar.JPG
 schema_type: MusicComposition
 schema:
@@ -32,7 +32,7 @@ quick_facts:
     value: "Sanskrit"
 ---
 
-*Bala Gopala Krishnam* is one of the best-known songs from Sri Narayana Theerthar's [Krishna Leela Tharangini](/home/krishna-leela-tharangini/). It is a song of the infant Krishna at Gokula, set in raga Mohanam and Adi tala. The piece is part of standard Carnatic concert repertoire and is one of the marquee tarangam pieces in Kuchipudi solo recitals, performed on the rim of a brass plate.
+*Bala Gopala Krishnam* is among the best-known songs from Sri Narayana Theerthar's [Krishna Leela Tharangini](/home/krishna-leela-tharangini/). It addresses the infant Krishna at Gokula, in raga Mohanam and Adi tala. The song is standard Carnatic concert repertoire and a Kuchipudi tarangam danced on the rim of a brass plate.
 
 ## Pallavi
 

@@ -53,7 +53,7 @@ The full Sanskrit text — pallavi, anupallavi, and charanams praising Krishna b
 
 The song is in the *stotra* mode: a hymn of praise, not a narrative. The composer addresses Krishna directly. The pallavi gathers four of his most familiar epithets — Vasudeva (son of Vasudeva), Prabho (lord), Jagannatha (master of the worlds), Krishna — and asks for protection. The charanams expand the list, naming Krishna for each of his major leelas: lifter of Govardhana, slayer of Kamsa, the cowherd flute-player, the husband of Rukmini.
 
-The choice of Shankarabharanam is significant. Shankarabharanam is the 29th melakarta raga, the "ornament of Shiva", regal and complete in scale (sa ri ga ma pa dha ni — the major scale). It is used in Carnatic music for songs of cosmic praise and royal grandeur, and its presence here marks *Sri Vasudeva Prabho* as a hymn to Krishna in his fullness — not as the village child or the young cowherd but as the lord of the worlds.
+The choice of Shankarabharanam carries weight. Shankarabharanam is the 29th melakarta raga, the "ornament of Shiva", with the full major scale (sa ri ga ma pa dha ni). It is used in Carnatic music for songs of cosmic praise and royal grandeur. The song here praises Krishna as the lord of the worlds rather than as the village child or the young cowherd.
 
 ## In performance
 
@@ -67,7 +67,7 @@ The Dr. M. Balamuralikrishna recording lists *Sri Vasudeva Prabho* in Shankarabh
 
 ## Why it endures
 
-The Tharangini is full of narrative tarangams — songs that tell episodes from Krishna's life. *Sri Vasudeva Prabho* stands a little apart from that. It is a song to be sung *at* Krishna, not *about* him. That makes it a natural piece for the opening or closing of a kacheri, when the performer wants to invoke the deity directly rather than narrate his deeds. The song's longevity in concert repertoire is partly a result of that role.
+The Tharangini is full of narrative tarangams — songs that tell episodes from Krishna's life. *Sri Vasudeva Prabho* works differently. It is sung *at* Krishna, not *about* him. That makes it a natural piece for the opening or closing of a kacheri, when the performer wants to invoke the deity directly rather than narrate his deeds. The song's long life in concert repertoire is partly a result of that role.
 
 ## Related
 

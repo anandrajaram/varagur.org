@@ -2,7 +2,7 @@
 layout: page
 title: "Krishnam Kalaya Sakhi"
 permalink: /home/krishna-leela-tharangini/krishnam-kalaya-sakhi/
-description: "Krishnam Kalaya Sakhi is a tarangam from Sri Narayana Theerthar's Krishna Leela Tharangini, in raga Mukhari and Adi tala. It is a sakhi's description of Krishna to Rukmini, a centrepiece of the Rukmini Kalyanam tarangams."
+description: "Krishnam Kalaya Sakhi is a tarangam from Sri Narayana Theerthar's Krishna Leela Tharangini, in raga Mukhari and Adi tala. A sakhi describes Krishna to Rukmini, in the run-up to the Rukmini Kalyanam."
 image: /assets/images/home__sri-narayana-theerthar/narayana-theerthar.JPG
 schema_type: MusicComposition
 schema:
@@ -56,7 +56,7 @@ The full text — including the anupallavi and charanams that describe Krishna's
 
 The sakhi addresses her friend Rukmini. *Kalaya* — "perceive", "behold", "look at" — is the verb that anchors the song. She lists what she sees: Krishna playing the flute, Krishna with the peacock feather, Krishna who is at once a child and the infinite Lord. Each verse layers another image; the cumulative effect is that Rukmini, who has not yet seen Krishna with her own eyes, comes to know him through the sakhi's description and falls deeper in love.
 
-Raga Mukhari is the natural carrier for this bhava. Mukhari is a deeply melancholic raga in the Kharaharapriya family, with a quality of longing that suits the song's emotional arc — Rukmini's love, the separation that precedes union, and the devotional pull of the sakhi's description.
+Raga Mukhari is the natural carrier for this bhava. Mukhari is a deeply melancholic raga in the Kharaharapriya family, with a quality of longing that suits the song's emotional arc — Rukmini's love and the separation that precedes union.
 
 ## In performance
 
