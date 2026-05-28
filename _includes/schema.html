@@ -134,6 +134,49 @@ Front-matter conventions (see plan for examples):
 </script>
 {%- endif -%}
 
+{%- if page.schema_type == "MusicComposition" -%}
+{%- comment -%}
+Front-matter contract:
+  schema_type: MusicComposition
+  schema:
+    composer: "Sri Narayana Theerthar"
+    composer_url: "https://varagur.org/home/sri-narayana-theerthar/"
+    in_language: "sa"
+    is_part_of_name: "Krishna Leela Tharangini"
+    is_part_of_url: "https://varagur.org/home/krishna-leela-tharangini/"
+    raga: "Mohanam"
+    tala: "Adi"
+    tarangam: "II"
+{%- endcomment -%}
+{%- assign kw_parts = "" | split: "" -%}
+{%- if page.schema.raga -%}{%- assign kw_parts = kw_parts | push: page.schema.raga -%}{%- endif -%}
+{%- if page.schema.tala -%}{%- assign kw_parts = kw_parts | push: page.schema.tala -%}{%- endif -%}
+{%- if page.schema.tarangam -%}{%- assign tarangam_kw = "Tarangam " | append: page.schema.tarangam -%}{%- assign kw_parts = kw_parts | push: tarangam_kw -%}{%- endif -%}
+{%- assign keywords = kw_parts | join: ", " -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MusicComposition",
+  "name": {{ page.title | jsonify }},
+  "url": {{ page_url | jsonify }},
+  "image": {{ page_image_absolute | jsonify }},
+  "description": {{ page_description | jsonify }}{%- if page.schema.composer %},
+  "composer": {
+    "@type": "Person",
+    "name": {{ page.schema.composer | jsonify }}{%- if page.schema.composer_url %},
+    "url": {{ page.schema.composer_url | jsonify }}{%- endif %}
+  }{%- endif %}{%- if page.schema.in_language %},
+  "inLanguage": {{ page.schema.in_language | jsonify }}{%- endif %}{%- if page.schema.is_part_of_name %},
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": {{ page.schema.is_part_of_name | jsonify }}{%- if page.schema.is_part_of_url %},
+    "url": {{ page.schema.is_part_of_url | jsonify }}{%- endif %}
+  }{%- endif %}{%- if keywords != "" %},
+  "keywords": {{ keywords | jsonify }}{%- endif %}
+}
+</script>
+{%- endif -%}
+
 {%- if page.schema_type == "Event" -%}
 <script type="application/ld+json">
 {
