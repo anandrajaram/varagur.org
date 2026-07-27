@@ -17,8 +17,10 @@ quick_facts:
     value: "10.842516° N, 78.998362° E"
   - label: Distance from Thanjavur
     value: "About 25 km"
-  - label: Nearest railhead
-    value: "Thanjavur Junction (TJ)"
+  - label: Nearest railway station
+    value: "Budalur (BAL), about 8 km — then an auto to Varagur"
+  - label: Major railhead
+    value: "Thanjavur Junction (TJ), about 25 km"
   - label: Nearest airport
     value: "Tiruchirappalli International (TRZ), about 80 km"
 ---
@@ -50,25 +52,35 @@ The village is at 10.842516° N, 78.998362° E. There are several places in Tami
 
 ## How to reach Varagur
 
+The two easiest starting points are **Thanjavur**, about 25 km away, and **Tiruchirappalli (Trichy)**, about 80 km west and the site of the nearest airport. Both are well connected to the rest of Tamil Nadu by train and bus. Whichever way you come, the last few kilometres into Varagur are covered by a village bus, a share-auto, or a hired auto or taxi.
+
 ### From Thanjavur
 
-Thanjavur is the closest large town and the easiest place to start from. The road journey is about 50 to 60 minutes. State Transport buses run between Thanjavur and Varagur through the day; private taxis are easy to hire from Thanjavur for the same trip.
+**By road** — the simplest option. A taxi from Thanjavur takes about 50 to 60 minutes, and cars are easy to hire near the bus stand or the railway station.
 
-### From Kumbakonam
+**By bus** — TNSTC buses run from Thanjavur through the day. The Thanjavur–Kallanai (Grand Anicut) service passes through Varagur, and town buses towards Thirukattupalli and Kandiyur also serve the road Varagur sits on. If nothing is leaving soon, take one of the frequent Thanjavur–Thiruvaiyaru buses and pick up a local bus or share-auto from there. Indicative timings are below.
 
-Kumbakonam is about 35 kilometres north of Varagur. The journey from Kumbakonam goes via the Thanjavur–Kumbakonam road. Buses are less frequent than from Thanjavur; a hired car is usually the simplest option.
+**By train** — Thanjavur Junction (TJ) to **Budalur (BAL)** is a short hop of about 20 minutes on a DEMU, MEMU, or passenger train. From Budalur, an auto covers the last 8 km north to Varagur.
 
 ### From Tiruchirappalli (Trichy)
 
-Tiruchirappalli is about 80 kilometres west. Most visitors travelling from longer distances fly into Tiruchirappalli International Airport (TRZ), then take a taxi or a train to Thanjavur before completing the last leg to Varagur. There are direct buses from Trichy to Thanjavur every few minutes.
+**By train** — the most direct way in. Budalur (BAL) sits on the Trichy–Thanjavur line, and a dozen or more trains a day run from **Tiruchirappalli (TPJ) to Budalur** in roughly 30 minutes. From Budalur, take an auto the last 8 km to Varagur. This skips Thanjavur altogether.
 
-### By train
+**By bus** — Trichy–Thanjavur buses leave every 10 to 15 minutes and take about an hour and twenty minutes. From Thanjavur, continue as above.
 
-The nearest railway station is Thanjavur Junction (TJ). From there, continue to Varagur by bus or taxi as described above. Major express trains from Chennai, Tiruchirappalli, Madurai, Coimbatore, and Bangalore stop at Thanjavur.
+**By air** — Tiruchirappalli International (TRZ) is the nearest airport, about 80 km away. From the airport, take a train to Budalur, or a taxi straight to Varagur in about two hours.
+
+### From Kumbakonam
+
+Kumbakonam is about 35 km north. Buses are less frequent than from Thanjavur, so a hired car via the Thanjavur–Kumbakonam road is usually the simplest option.
+
+For longer journeys, note that the express trains from Chennai, Madurai, Coimbatore, and Bengaluru stop at **Thanjavur Junction (TJ)**, the major railhead in the area; change there for a Budalur passenger train or a road connection.
 
 ## Bus timings
 
-Bus timings between Thanjavur and Varagur have not changed dramatically over the years, but the schedule below was last verified in July 2012. Please verify locally before you travel.
+The Thanjavur–Varagur village-route timetable is not published online. The Thanjavur–Kallanai (Grand Anicut) buses that pass through Varagur, and the town buses towards Thirukattupalli, are best confirmed in person at the Thanjavur New Bus Stand before you set out — the mofussil (village-route) counter there will have the current departures.
+
+The schedule below was last verified in July 2012 and is indicative only.
 
 <table class="bus-timings">
   <thead>
@@ -100,7 +112,7 @@ If you want a quiet visit, the months outside Aadi–Avani (the Tamil months tha
 
 ## Accommodation
 
-Most visitors stay in Thanjavur and make Varagur a day trip. Thanjavur has a range of options from heritage hotels (around the Big Temple) to small lodges. During the Uriyadi festival the temple trust provides accommodation and meals for devotees — write to [varaguronline at gmail dot com](/about/contact/) in advance if you would like to be considered.
+Most visitors stay in Thanjavur and make Varagur a day trip. Thanjavur has a range of options from heritage hotels (around the Big Temple) to small lodges. During the Uriyadi festival the temple trust provides accommodation and meals for devotees.
 
 ## Driving directions
 

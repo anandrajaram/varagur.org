@@ -12,6 +12,11 @@ image: /assets/images/index/gopuram-final.jpg
 
 <p class="lede">Varagur is situated on the bank of the River Kudamurutti, a tributary of the Cauvery. In this remote village, the Great Saint Sri Narayana Theertha Swamigal — who composed the Krishna Leela Tharangini — attained Deva Mukthi after receiving the Viswaroopa Darshan of Lord Venkatesa Perumal.</p>
 
+<aside class="notice notice-announce" role="note">
+  <p><strong>Uriyadi Utsavam 2026 &middot; 28 August – 7 September.</strong> The temple trust has released this year's invitation. Uriyadi Thirunaal falls on Saturday, 5 September 2026, with Rukmini Kalyanam the next day.</p>
+  <p><a href="{{ '/uriyadi-2026/' | relative_url }}">See the full 2026 schedule and invitation &rsaquo;</a></p>
+</aside>
+
 <div class="home-cards">
   <div class="home-card">
     <h2><a href="{{ '/home/about/' | relative_url }}">Sthala Puranam</a></h2>
@@ -30,7 +35,7 @@ image: /assets/images/index/gopuram-final.jpg
   <div class="home-card">
     <h2><a href="{{ '/uriyadi/' | relative_url }}">Uriyadi</a></h2>
     <a href="{{ '/uriyadi/' | relative_url }}"><img src="{{ '/assets/images/index/uriyadi.jpg' | relative_url }}" alt="The Uriyadi pot suspended during the festival" /></a>
-    <p>Uriyadi Utsavam is the marquee event amongst all the Utsavams in Varagur. Every year Uriyadi starts on Gayathri Japam Day (the day after Avani Avittam), and continues for ten days until the day after Janmashtami.</p>
-    <p><a href="{{ '/uriyadi/' | relative_url }}">Read more about Uriyadi &rsaquo;</a></p>
+    <p>Uriyadi Utsavam is the marquee event amongst all the Utsavams in Varagur. It begins on Gayathri Japam Day, the day after Avani Avittam, and runs until the days of Rukmini Kalyanam and Bhakta Utsavam. In 2026 it falls from 28 August to 7 September.</p>
+    <p><a href="{{ '/uriyadi-2026/' | relative_url }}">Uriyadi 2026 invitation &rsaquo;</a> &nbsp;·&nbsp; <a href="{{ '/uriyadi/' | relative_url }}">About Uriyadi &rsaquo;</a></p>
   </div>
 </div>

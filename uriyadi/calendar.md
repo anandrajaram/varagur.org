@@ -21,8 +21,8 @@ quick_facts:
 The Uriyadi festival at Varagur is anchored to the Tamil lunar calendar, so its dates shift by a few weeks each year. This page gives the Gregorian dates for the principal days, computed from the standard Tamil panchangam.
 
 <aside class="notice notice-warning" role="note">
-  <p><strong>Provisional dates &mdash; pending confirmation by the temple trust.</strong></p>
-  <p>The dates below are computed from the Smarta-tradition Krishna Astami using <a href="https://www.drikpanchang.com/">drikpanchang.com</a>. The temple trust at Varagur publishes the official invitation each year, and those dates are authoritative. We expect to update this page with confirmed dates shortly. If you spot a discrepancy or have the official Varagur invitation for any year listed below, please <a href="/about/contact/">let us know</a>.</p>
+  <p><strong>2026 is confirmed from the official temple invitation. Other years are provisional.</strong></p>
+  <p>The 2026 dates below come from the invitation published by the temple trust — see the <a href="/uriyadi-2026/">Uriyadi 2026 page</a> for the full schedule. The 2025, 2027, and 2028 dates are computed from the Smarta-tradition Krishna Astami using <a href="https://www.drikpanchang.com/">drikpanchang.com</a> and await confirmation. The trust's invitation is authoritative each year. If you spot a discrepancy or have the official Varagur invitation for any year listed below, please <a href="/about/contact/">let us know</a>.</p>
 </aside>
 
 ## How the dates are determined
@@ -90,16 +90,17 @@ At Varagur:
 
 ## 2026
 
-<p class="festival-year-note">Provisional &mdash; awaiting temple trust confirmation.</p>
+<p class="festival-year-note confirmed">Confirmed &mdash; from the official temple invitation. <a href="/uriyadi-2026/">See the full schedule and invitation &rsaquo;</a></p>
 
 <section class="festival-year">
 <table>
   <tbody>
     <tr><th>Avani Avittam</th><td>Thursday, 27 August 2026</td></tr>
     <tr><th>Gayathri Japam Day — festival begins</th><td>Friday, 28 August 2026</td></tr>
-    <tr><th>Uriyadi Utsavam (Krishna Astami)</th><td>Friday, 4 September 2026</td></tr>
-    <tr><th>Rukmini Kalyanam</th><td>Saturday, 5 September 2026</td></tr>
-    <tr><th>Bhakta Utsavam — festival concludes</th><td>Sunday, 6 September 2026</td></tr>
+    <tr><th>Sri Krishna Jayanti (Janmashtami)</th><td>Friday, 4 September 2026</td></tr>
+    <tr><th>Uriyadi Thirunaal</th><td>Saturday, 5 September 2026</td></tr>
+    <tr><th>Rukmini Kalyanam</th><td>Sunday, 6 September 2026</td></tr>
+    <tr><th>Bhakta Utsavam — festival concludes</th><td>Monday, 7 September 2026</td></tr>
   </tbody>
 </table>
 </section>
@@ -109,10 +110,10 @@ At Varagur:
   "@context": "https://schema.org",
   "@type": "Event",
   "name": "Uriyadi Festival 2026",
-  "url": "https://varagur.org/uriyadi/calendar/",
-  "description": "Ten-day Uriyadi festival at Sri Venkatesa Perumal Kovil, Varagur. Uriyadi Utsavam on Krishna Astami.",
+  "url": "https://varagur.org/uriyadi-2026/",
+  "description": "Eleven-day Uriyadi festival at Sri Venkatesa Perumal Kovil, Varagur. Janmashtami on 4 September, Uriyadi Thirunaal on 5 September, Rukmini Kalyanam on 6 September, Bhakta Utsavam on 7 September 2026.",
   "startDate": "2026-08-28",
-  "endDate": "2026-09-06",
+  "endDate": "2026-09-07",
   "eventStatus": "https://schema.org/EventScheduled",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
   "location": {

@@ -452,6 +452,12 @@ table.bus-timings td { font-variant-numeric: tabular-nums; }
   border-color: #f3d99a;
   border-left: 4px solid #c98a14;
 }
+.notice-announce {
+  background: #f2f8f6;
+  border-color: #cfe4dd;
+  border-left: 4px solid var(--color-accent);
+}
+.notice-announce a { color: var(--color-accent); }
 
 /* Per-year provisional note above each calendar table */
 .festival-year-note {
@@ -462,6 +468,37 @@ table.bus-timings td { font-variant-numeric: tabular-nums; }
   color: #b67100;
   margin: 1.2rem 0 0.2rem;
 }
+.festival-year-note.confirmed { color: var(--color-accent); }
+.festival-year-note.confirmed a { text-transform: none; letter-spacing: 0; }
+
+/* Festival invitation image */
+figure.invitation {
+  margin: 1.5rem 0 2rem;
+  max-width: 560px;
+}
+figure.invitation img {
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+}
+figure.invitation figcaption {
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* Transcribed Tamil source text */
+.tamil {
+  font-size: 1.02rem;
+  line-height: 1.9;
+  background: #fafafa;
+  border-left: 3px solid var(--color-border);
+  padding: 0.8rem 1.1rem;
+  margin: 1rem 0 1.5rem;
+}
+.tamil p:last-child { margin-bottom: 0; }
 
 /* Festival year tables on the Uriyadi calendar page */
 .festival-year { margin: 0.3rem 0 2rem; }
